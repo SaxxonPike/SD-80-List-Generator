@@ -1,591 +1,591 @@
-Index, Name
-000,   ------------
-001,   StGrand L pA
-002,   StGrand R pA
-003,   StGrand L pB
-004,   StGrand R pB
-005,   StGrand L pC
-006,   StGrand R pC
-007,   StGrand L fA
-008,   StGrand R fA
-009,   StGrand L fB
-010,   StGrand R fB
-011,   StGrand L fC
-012,   StGrand R fC
-013,   E.GrandPf p
-014,   E.GrandPf f
-015,   SA Piano
-016,   Stage p A
-017,   Stage f A
-018,   E.Piano 1p
-019,   E.Piano 2p
-020,   E.Piano 1f
-021,   Dyn Rhd mp A
-022,   Dyn Rhd mp B
-023,   Dyn Rhd mp C
-024,   Dyn Rhd mf A
-025,   Dyn Rhd mf B
-026,   Dyn Rhd mf C
-027,   Dyn Rhd ff A
-028,   Dyn Rhd ff B
-029,   Dyn Rhd ff C
-030,   Wurly Soft
-031,   Wurly f
-032,   E.Piano 2f
-033,   E.Piano 3
-034,   Harpsichord
-035,   Harpsi B
-036,   Harpsi C
-037,   Clav 1
-038,   Clav 2
-039,   Clav Attack
-040,   Celesta
-041,   Glockenspiel
-042,   Music Box
-043,   Vibraphone
-044,   Marimba
-045,   Xylophone
-046,   Tubebell
-047,   Chime
-048,   Santur
-049,   Organ C3
-050,   Organ B3
-051,   Jazz Organ
-052,   Organ Noise
-053,   Organ 1
-054,   Organ 2
-055,   Organ 3
-056,   Organ 4
-057,   60's Organ1
-058,   60's Organ2
-059,   60's Organ3
-060,   60's Organ4
-061,   Full Organ
-062,   Full Draw
-063,   Rock Organ
-064,   Dist. Organ
-065,   Rot.Org Slw
-066,   Rot.Org Fst
-067,   Church Organ
-068,   Church Org 2
-069,   Reed Organ
-070,   Organ Flute8
-071,   F.AccordionA
-072,   F.AccordionB
-073,   It Muset
-074,   Harmonica
-075,   NylonGt4 p A
-076,   NylonGt4 p B
-077,   NylonGt4 p C
-078,   NylonGt4 f A
-079,   NylonGt4 f B
-080,   NylonGt4 f C
-081,   Steel-Gt mpA
-082,   Steel-Gt mpB
-083,   Steel-Gt mpC
-084,   E.AcoGuitarA
-085,   E.AcoGuitarB
-086,   E.AcoGuitarC
-087,   Banjo
-088,   Pedal Steel
-089,   JazzGt2 p A
-090,   JazzGt2 p B
-091,   JazzGt2 p C
-092,   JazzGt2 f A
-093,   JazzGt2 f B
-094,   JazzGt2 f C
-095,   ClnGt Rear A
-096,   ClnGt Rear B
-097,   ClnGt Half
-098,   Clean TC 1 A
-099,   Clean TC 1 B
-100,   Clean TC 1 C
-101,   Clean TC2 pA
-102,   Clean TC2 pB
-103,   Clean TC2 pC
-104,   Clean TC2 fA
-105,   Clean TC2 fB
-106,   Clean TC2 fC
-107,   335Gt f A
-108,   335Gt f B
-109,   335Gt f C
-110,   CleanGt2 A
-111,   CleanGt2 B
-112,   CleanGt2 C
-113,   TC Mute Gt
-114,   Funk Guitar
-115,   Muted Gt.3
-116,   Overdrive 1
-117,   Harmo Gt.OD
-118,   Dist Gt.
-119,   Mute Dist
-120,   Harmo Gt.
-121,   Silent Bs
-122,   Cb brtk pizz
-123,   P.Bass 3 A
-124,   P.Bass 3 B
-125,   P.Bass 3 C
-126,   Jazz Bass3 A
-127,   Jazz Bass3 B
-128,   Jazz Bass3 C
-129,   Muted Bass A
-130,   Muted Bass B
-131,   Muted Bass C
-132,   Fretless Bs
-133,   Slap Bass 1
-134,   Slap Bass 2
-135,   Syn Bass
-136,   SH101 Bass 1
-137,   FM Super Bs
-138,   MMG Bass
-139,   TB303Bass
-140,   MMG Saw
-141,   Saw
-142,   Saw2
-143,   MG Saw 1 A
-144,   MG Saw 1 B
-145,   MG Saw 1 C
-146,   OB Saw 1
-147,   SH-2 Saw
-148,   P5 Saw 1
-149,   CS Saw 1
-150,   OB Strings
-151,   JP6 Saw D
-152,   MMG Square
-153,   OB Square
-154,   MG Square
-155,   JP8 Pulse
-156,   2600 Sine
-157,   Sine
-158,   Violin A
-159,   Violin B
-160,   Violin C
-161,   VlSolo Vib A
-162,   VlSolo Vib B
-163,   VlSolo Vib C
-164,   Violin Vib
-165,   Viola Vib
-166,   Cello
-167,   Cello Vib
-168,   ContraBass
-169,   ContraBs.Vib
-170,   Pizzicato
-171,   Harp
-172,   YangQin
-173,   Trm.StringsA
-174,   Trm.StringsB
-175,   Trm.StringsC
-176,   ArcStr.L mpA
-177,   ArcStr.R mpA
-178,   ArcStr.L mpB
-179,   ArcStr.R mpB
-180,   ArcStr.L mpC
-181,   ArcStr.R mpC
-182,   DolceStr.A L
-183,   DolceStr.A R
-184,   DolceStr.B L
-185,   DolceStr.B R
-186,   DolceStr.C L
-187,   DolceStr.C R
-188,   LargeChrL fA
-189,   LargeChrR fA
-190,   LargeChrL fB
-191,   LargeChrR fB
-192,   LargeChrL fC
-193,   LargeChrR fC
-194,   M+F Ahs A L
-195,   M+F Ahs A R
-196,   M+F Ahs B L
-197,   M+F Ahs B R
-198,   M+F Ahs C L
-199,   M+F Ahs C R
-200,   JzVoice Doos
-201,   SynVox
-202,   SynVox2
-203,   Back Hit
-204,   Orch Hit 1
-205,   Phill Hit
-206,   Orch Hit 2
-207,   Tekno Hit
-208,   Trumpet p
-209,   Trumpet f
-210,   Trumpet Vib
-211,   Trombone p
-212,   Solo Tb A
-213,   Solo Tb B
-214,   Trombone2
-215,   Trombone3 fA
-216,   Trombone3 fB
-217,   Trombone3 fC
-218,   Tuba p
-219,   Tuba f
-220,   TpHrmnMt p A
-221,   TpHrmnMt p B
-222,   TpHrmnMt p C
-223,   TpHrmnMt f A
-224,   TpHrmnMt f B
-225,   TpHrmnMt f C
-226,   Harmon Mute
-227,   French Horn
-228,   Brs2K ff A L
-229,   Brs2K ff A R
-230,   Brs2K ff B L
-231,   Brs2K ff B R
-232,   Brs2K ff C L
-233,   Brs2K ff C R
-234,   Brass FF
-235,   Sop.Sax mf A
-236,   AltoSax2 p A
-237,   AltoSax2 p B
-238,   AltoSax2 p C
-239,   AltoSax2 f A
-240,   AltoSax2 f B
-241,   AltoSax2 f C
-242,   AltoSax Vib
-243,   TenrSax2 p A
-244,   TenrSax2 p B
-245,   TenrSax2 p C
-246,   TenrSax2 f A
-247,   TenrSax2 f B
-248,   TenrSax2 f C
-249,   TenBlwSaxVib
-250,   CircsSax Vib
-251,   BariSax2 p A
-252,   BariSax2 p B
-253,   BariSax2 p C
-254,   BariSax2 f A
-255,   BariSax2 f B
-256,   BariSax2 f C
-257,   Oboe 1mf
-258,   Oboe 1f
-259,   Oboe 2f
-260,   Oboe Vib
-261,   English Horn
-262,   Bassoon
-263,   Clarinet mf
-264,   Clarinet f
-265,   Clrnt Vib A
-266,   Clrnt Vib B
-267,   Clrnt Vib C
-268,   Piccolo
-269,   Flute
-270,   Flute Vib3 A
-271,   Flute Vib3 B
-272,   Flute Vib3 C
-273,   Recorder
-274,   Sicu A
-275,   Sicu B
-276,   Blow Pipe
-277,   Breath Noise
-278,   Shakuhachi 1
-279,   Shakuhachi 2
-280,   Ocarina
-281,   Bottle
-282,   FantBell A
-283,   FantBell B
-284,   IceRain
-285,   Syn Malet
-286,   Sitar
-287,   Shamisen
-288,   Koto
-289,   Koto Attack
-290,   Taisho koto
-291,   Kalimba Atk
-292,   Bag Pipe
-293,   Shannai
-294,   TnkBell
-295,   Steel Drum
-296,   Kick 1 mfL
-297,   Kick 1 mfR
-298,   Kick 1 fL
-299,   Kick 1 fR
-300,   Kick 1 ffL
-301,   Kick 1 ffR
-302,   Kick 2 pL
-303,   Kick 2 pR
-304,   Kick 2 mfL
-305,   Kick 2 mfR
-306,   Kick 2 fL
-307,   Kick 2 fR
-308,   Rock Kick p
-309,   Rock Kick mf
-310,   Rock Kick f
-311,   Mondo Kick
-312,   Jazz Kick p
-313,   Jazz Kick mf
-314,   Jazz Kick f
-315,   Old Kick
-316,   Hybrid Kick
-317,   Verb Kick
-318,   Round Kick
-319,   808 Kick
-320,   909 Kick 1
-321,   909 Kick 2
-322,   Techno BD2
-323,   70s Kick 1
-324,   Dance Kick
-325,   Snare 1 mfL
-326,   Snare 1 mfR
-327,   Snare 1 fL
-328,   Snare 1 fR
-329,   Snare 1 ffL
-330,   Snare 1 ffR
-331,   Snare 1RffL
-332,   Snare 1RffR
-333,   Snare 2 mfL
-334,   Snare 2 mfR
-335,   Snare 2 fL
-336,   Snare 2 fR
-337,   Snare 2 ffL
-338,   Snare 2 ffR
-339,   Snare 2RffL
-340,   Snare 2RffR
-341,   Rock SN mf L
-342,   Rock SN mf R
-343,   Rock Rim f L
-344,   Rock Rim f R
-345,   Rash Snare
-346,   BrushSnar p
-347,   BrushSnar mp
-348,   BrushSnar mf
-349,   BrushSnar f
-350,   B.Swish 2
-351,   B.Swirl
-352,   Piccolo SN
-353,   Natural SN1
-354,   Natural SN2
-355,   Ballad SN
-356,   909 SN 1
-357,   909 SN 2
-358,   808 SN 1
-359,   Raga RimSN
-360,   Dance SN
-361,   Old Fill SN
-362,   Stick fL
-363,   Stick fR
-364,   Stick ffL
-365,   Stick ffR
-366,   LowTom mfL
-367,   LowTom mfR
-368,   LowTom fL
-369,   LowTom fR
-370,   LowTom ffL
-371,   LowTom ffR
-372,   Mid Tom mfL
-373,   Mid Tom mfR
-374,   Mid Tom fL
-375,   Mid Tom fR
-376,   Mid Tom ffL
-377,   Mid Tom ffR
-378,   Hi Tom mfL
-379,   Hi Tom mfR
-380,   Hi Tom fL
-381,   Hi Tom fR
-382,   Hi Tom ffL
-383,   Hi Tom ffR
-384,   RoomLowTom p
-385,   RoomLowTom f
-386,   Room HiTom p
-387,   Room HiTom f
-388,   Rock Tom 2H
-389,   Rock Tom 4L
-390,   BrushLwTom p
-391,   BrushLwTom f
-392,   BrushMdTom p
-393,   BrushMdTom f
-394,   BrushHiTom p
-395,   BrushHiTom f
-396,   Hi Hat mfL
-397,   Hi Hat mfR
-398,   Hi Hat fL
-399,   Hi Hat fR
-400,   Hi Hat ffL
-401,   Hi Hat ffR
-402,   Open Hat mfL
-403,   Open Hat mfR
-404,   Open Hat fL
-405,   Open Hat fR
-406,   Open Hat ffL
-407,   Open Hat ffR
-408,   PedalHat fL
-409,   PedalHat fR
-410,   PedalHat ffL
-411,   PedalHat ffR
-412,   BrushHiHat p
-413,   BrushHiHatmf
-414,   BrushHiHat f
-415,   BrushPdHat p
-416,   BrushPdHat f
-417,   BrushOpHat p
-418,   BrushOpHatmf
-419,   BrushOpHat f
-420,   Crash 1 pL
-421,   Crash 1 pR
-422,   Crash 1 mfL
-423,   Crash 1 mfR
-424,   Crash 1 fL
-425,   Crash 1 fR
-426,   Crash 1 ffL
-427,   Crash 1 ffR
-428,   Crash 2 mfL
-429,   Crash 2 mfR
-430,   Crash 2 fL
-431,   Crash 2 fR
-432,   Crash 2 ffL
-433,   Crash 2 ffR
-434,   Swish Cymbal
-435,   Brush Crash1
-436,   Brush Crash2
-437,   Ride 1 pL
-438,   Ride 1 pR
-439,   Ride 1 mfL
-440,   Ride 1 mfR
-441,   Ride 1 fL
-442,   Ride 1 fR
-443,   Ride 2 pL
-444,   Ride 2 pR
-445,   Ride 2 mfL
-446,   Ride 2 mfR
-447,   Ride 2 fL
-448,   Ride 2 fR
-449,   RideBell pL
-450,   RideBell pR
-451,   RideBell mfL
-452,   RideBell mfR
-453,   RideBell fL
-454,   RideBell fR
-455,   Hi Q
-456,   Slap
-457,   S Push
-458,   S Pull
-459,   Stick
-460,   Click
-461,   Metro K
-462,   Metro Bell
-463,   TR-909 HC
-464,   Triz
-465,   JingleBell
-466,   BellTree
-467,   TimbalesHi p
-468,   TimbalesHi f
-469,   TimbalesLo p
-470,   TimbalesLo f
-471,   BongoHi fL
-472,   BongoHi fR
-473,   BongoHi mfL
-474,   BongoHi mfR
-475,   BongoLow fL
-476,   BongoLow fR
-477,   BongoLow mfL
-478,   BongoLow mfR
-479,   CongaHi fL
-480,   CongaHi fR
-481,   CongaHi pL
-482,   CongaHi pR
-483,   CongaHi SlpL
-484,   CongaHi SlpR
-485,   CongaLow fL
-486,   CongaLow fR
-487,   CongaLow mfL
-488,   CongaLow mfR
-489,   CongaMt fL
-490,   CongaMt fR
-491,   CongaMt mfL
-492,   CongaMt mfR
-493,   Mute Cuica
-494,   Open Cuica
-495,   Cowbell p
-496,   Cowbell mf
-497,   Cowbell f
-498,   Claves p
-499,   Claves f
-500,   ShortGuiro f
-501,   ShortGuiro p
-502,   Long Guiro
-503,   Agogo Hi
-504,   Agogo Lo
-505,   Whistle Hi
-506,   Whistle Long
-507,   Castanet
-508,   Tambourine
-509,   Wood BlockLo
-510,   Maracas
-511,   Vibra Slap
-512,   Wood BlockHi
-513,   Cabasa
-514,   Shaker
-515,   Mute Surdo
-516,   Open Surdo
-517,   HQ808 Kick
-518,   808 RS
-519,   808 Tom
-520,   E.Snare
-521,   Punch Snare
-522,   Syn Drum
-523,   808 SN 2
-524,   808 Clap
-525,   808 Tl
-526,   808 Th
-527,   808 Ohh
-528,   808 Cym
-529,   808 Cow
-530,   Cosine
-531,   808 Mrcs
-532,   808 Claves
-533,   Concert BD
-534,   Concert SD
-535,   Timpani
-536,   Con Cymbal
-537,   Fret Guitar
-538,   Cut Noise
-539,   Bass BD
-540,   KC Flute
-541,   Sea
-542,   Thunder
-543,   Windy
-544,   Stream
-545,   Bubble
-546,   Bird
-547,   Dog Bow
-548,   Horse
-549,   Mt Bird
-550,   Telephone 1
-551,   Telephone 2
-552,   Creak
-553,   S DOOR
-554,   Scratch
-555,   WindChime
-556,   Helicopter
-557,   Engine
-558,   Car Stop
-559,   Car Pass
-560,   Crash
-561,   GunShot
-562,   Siren
-563,   Train
-564,   StarShip
-565,   JetPlane
-566,   Applause
-567,   Laugh
-568,   Scream
-569,   Punch
-570,   Heart
-571,   Steps
-572,   M Gun
-573,   Laser
-574,   Thunder 2
-575,   RCrash 1 fL
-576,   RCrash 1 fR
-577,   RCrash 1 ffL
-578,   RCrash 1 ffR
-579,   RCrash 2 fL
-580,   RCrash 2 fR
-581,   RCrash 2 ffL
-582,   RCrash 2 ffR
-583,   R Snare 1R
-584,   R Snare 2R
-585,   R Mid Tom
-586,   R RoomHiTom
-587,   R Old Kick
-588,   R Round Kick
-589,   BsGt Play Nz
+Index,Name
+0,------------
+1,StGrand L pA
+2,StGrand R pA
+3,StGrand L pB
+4,StGrand R pB
+5,StGrand L pC
+6,StGrand R pC
+7,StGrand L fA
+8,StGrand R fA
+9,StGrand L fB
+10,StGrand R fB
+11,StGrand L fC
+12,StGrand R fC
+13,E.GrandPf p
+14,E.GrandPf f
+15,SA Piano
+16,Stage p A
+17,Stage f A
+18,E.Piano 1p
+19,E.Piano 2p
+20,E.Piano 1f
+21,Dyn Rhd mp A
+22,Dyn Rhd mp B
+23,Dyn Rhd mp C
+24,Dyn Rhd mf A
+25,Dyn Rhd mf B
+26,Dyn Rhd mf C
+27,Dyn Rhd ff A
+28,Dyn Rhd ff B
+29,Dyn Rhd ff C
+30,Wurly Soft
+31,Wurly f
+32,E.Piano 2f
+33,E.Piano 3
+34,Harpsichord
+35,Harpsi B
+36,Harpsi C
+37,Clav 1
+38,Clav 2
+39,Clav Attack
+40,Celesta
+41,Glockenspiel
+42,Music Box
+43,Vibraphone
+44,Marimba
+45,Xylophone
+46,Tubebell
+47,Chime
+48,Santur
+49,Organ C3
+50,Organ B3
+51,Jazz Organ
+52,Organ Noise
+53,Organ 1
+54,Organ 2
+55,Organ 3
+56,Organ 4
+57,60's Organ1
+58,60's Organ2
+59,60's Organ3
+60,60's Organ4
+61,Full Organ
+62,Full Draw
+63,Rock Organ
+64,Dist. Organ
+65,Rot.Org Slw
+66,Rot.Org Fst
+67,Church Organ
+68,Church Org 2
+69,Reed Organ
+70,Organ Flute8
+71,F.AccordionA
+72,F.AccordionB
+73,It Muset
+74,Harmonica
+75,NylonGt4 p A
+76,NylonGt4 p B
+77,NylonGt4 p C
+78,NylonGt4 f A
+79,NylonGt4 f B
+80,NylonGt4 f C
+81,Steel-Gt mpA
+82,Steel-Gt mpB
+83,Steel-Gt mpC
+84,E.AcoGuitarA
+85,E.AcoGuitarB
+86,E.AcoGuitarC
+87,Banjo
+88,Pedal Steel
+89,JazzGt2 p A
+90,JazzGt2 p B
+91,JazzGt2 p C
+92,JazzGt2 f A
+93,JazzGt2 f B
+94,JazzGt2 f C
+95,ClnGt Rear A
+96,ClnGt Rear B
+97,ClnGt Half
+98,Clean TC 1 A
+99,Clean TC 1 B
+100,Clean TC 1 C
+101,Clean TC2 pA
+102,Clean TC2 pB
+103,Clean TC2 pC
+104,Clean TC2 fA
+105,Clean TC2 fB
+106,Clean TC2 fC
+107,335Gt f A
+108,335Gt f B
+109,335Gt f C
+110,CleanGt2 A
+111,CleanGt2 B
+112,CleanGt2 C
+113,TC Mute Gt
+114,Funk Guitar
+115,Muted Gt.3
+116,Overdrive 1
+117,Harmo Gt.OD
+118,Dist Gt.
+119,Mute Dist
+120,Harmo Gt.
+121,Silent Bs
+122,Cb brtk pizz
+123,P.Bass 3 A
+124,P.Bass 3 B
+125,P.Bass 3 C
+126,Jazz Bass3 A
+127,Jazz Bass3 B
+128,Jazz Bass3 C
+129,Muted Bass A
+130,Muted Bass B
+131,Muted Bass C
+132,Fretless Bs
+133,Slap Bass 1
+134,Slap Bass 2
+135,Syn Bass
+136,SH101 Bass 1
+137,FM Super Bs
+138,MMG Bass
+139,TB303Bass
+140,MMG Saw
+141,Saw
+142,Saw2
+143,MG Saw 1 A
+144,MG Saw 1 B
+145,MG Saw 1 C
+146,OB Saw 1
+147,SH-2 Saw
+148,P5 Saw 1
+149,CS Saw 1
+150,OB Strings
+151,JP6 Saw D
+152,MMG Square
+153,OB Square
+154,MG Square
+155,JP8 Pulse
+156,2600 Sine
+157,Sine
+158,Violin A
+159,Violin B
+160,Violin C
+161,VlSolo Vib A
+162,VlSolo Vib B
+163,VlSolo Vib C
+164,Violin Vib
+165,Viola Vib
+166,Cello
+167,Cello Vib
+168,ContraBass
+169,ContraBs.Vib
+170,Pizzicato
+171,Harp
+172,YangQin
+173,Trm.StringsA
+174,Trm.StringsB
+175,Trm.StringsC
+176,ArcStr.L mpA
+177,ArcStr.R mpA
+178,ArcStr.L mpB
+179,ArcStr.R mpB
+180,ArcStr.L mpC
+181,ArcStr.R mpC
+182,DolceStr.A L
+183,DolceStr.A R
+184,DolceStr.B L
+185,DolceStr.B R
+186,DolceStr.C L
+187,DolceStr.C R
+188,LargeChrL fA
+189,LargeChrR fA
+190,LargeChrL fB
+191,LargeChrR fB
+192,LargeChrL fC
+193,LargeChrR fC
+194,M+F Ahs A L
+195,M+F Ahs A R
+196,M+F Ahs B L
+197,M+F Ahs B R
+198,M+F Ahs C L
+199,M+F Ahs C R
+200,JzVoice Doos
+201,SynVox
+202,SynVox2
+203,Back Hit
+204,Orch Hit 1
+205,Phill Hit
+206,Orch Hit 2
+207,Tekno Hit
+208,Trumpet p
+209,Trumpet f
+210,Trumpet Vib
+211,Trombone p
+212,Solo Tb A
+213,Solo Tb B
+214,Trombone2
+215,Trombone3 fA
+216,Trombone3 fB
+217,Trombone3 fC
+218,Tuba p
+219,Tuba f
+220,TpHrmnMt p A
+221,TpHrmnMt p B
+222,TpHrmnMt p C
+223,TpHrmnMt f A
+224,TpHrmnMt f B
+225,TpHrmnMt f C
+226,Harmon Mute
+227,French Horn
+228,Brs2K ff A L
+229,Brs2K ff A R
+230,Brs2K ff B L
+231,Brs2K ff B R
+232,Brs2K ff C L
+233,Brs2K ff C R
+234,Brass FF
+235,Sop.Sax mf A
+236,AltoSax2 p A
+237,AltoSax2 p B
+238,AltoSax2 p C
+239,AltoSax2 f A
+240,AltoSax2 f B
+241,AltoSax2 f C
+242,AltoSax Vib
+243,TenrSax2 p A
+244,TenrSax2 p B
+245,TenrSax2 p C
+246,TenrSax2 f A
+247,TenrSax2 f B
+248,TenrSax2 f C
+249,TenBlwSaxVib
+250,CircsSax Vib
+251,BariSax2 p A
+252,BariSax2 p B
+253,BariSax2 p C
+254,BariSax2 f A
+255,BariSax2 f B
+256,BariSax2 f C
+257,Oboe 1mf
+258,Oboe 1f
+259,Oboe 2f
+260,Oboe Vib
+261,English Horn
+262,Bassoon
+263,Clarinet mf
+264,Clarinet f
+265,Clrnt Vib A
+266,Clrnt Vib B
+267,Clrnt Vib C
+268,Piccolo
+269,Flute
+270,Flute Vib3 A
+271,Flute Vib3 B
+272,Flute Vib3 C
+273,Recorder
+274,Sicu A
+275,Sicu B
+276,Blow Pipe
+277,Breath Noise
+278,Shakuhachi 1
+279,Shakuhachi 2
+280,Ocarina
+281,Bottle
+282,FantBell A
+283,FantBell B
+284,IceRain
+285,Syn Malet
+286,Sitar
+287,Shamisen
+288,Koto
+289,Koto Attack
+290,Taisho koto
+291,Kalimba Atk
+292,Bag Pipe
+293,Shannai
+294,TnkBell
+295,Steel Drum
+296,Kick 1 mfL
+297,Kick 1 mfR
+298,Kick 1 fL
+299,Kick 1 fR
+300,Kick 1 ffL
+301,Kick 1 ffR
+302,Kick 2 pL
+303,Kick 2 pR
+304,Kick 2 mfL
+305,Kick 2 mfR
+306,Kick 2 fL
+307,Kick 2 fR
+308,Rock Kick p
+309,Rock Kick mf
+310,Rock Kick f
+311,Mondo Kick
+312,Jazz Kick p
+313,Jazz Kick mf
+314,Jazz Kick f
+315,Old Kick
+316,Hybrid Kick
+317,Verb Kick
+318,Round Kick
+319,808 Kick
+320,909 Kick 1
+321,909 Kick 2
+322,Techno BD2
+323,70s Kick 1
+324,Dance Kick
+325,Snare 1 mfL
+326,Snare 1 mfR
+327,Snare 1 fL
+328,Snare 1 fR
+329,Snare 1 ffL
+330,Snare 1 ffR
+331,Snare 1RffL
+332,Snare 1RffR
+333,Snare 2 mfL
+334,Snare 2 mfR
+335,Snare 2 fL
+336,Snare 2 fR
+337,Snare 2 ffL
+338,Snare 2 ffR
+339,Snare 2RffL
+340,Snare 2RffR
+341,Rock SN mf L
+342,Rock SN mf R
+343,Rock Rim f L
+344,Rock Rim f R
+345,Rash Snare
+346,BrushSnar p
+347,BrushSnar mp
+348,BrushSnar mf
+349,BrushSnar f
+350,B.Swish 2
+351,B.Swirl
+352,Piccolo SN
+353,Natural SN1
+354,Natural SN2
+355,Ballad SN
+356,909 SN 1
+357,909 SN 2
+358,808 SN 1
+359,Raga RimSN
+360,Dance SN
+361,Old Fill SN
+362,Stick fL
+363,Stick fR
+364,Stick ffL
+365,Stick ffR
+366,LowTom mfL
+367,LowTom mfR
+368,LowTom fL
+369,LowTom fR
+370,LowTom ffL
+371,LowTom ffR
+372,Mid Tom mfL
+373,Mid Tom mfR
+374,Mid Tom fL
+375,Mid Tom fR
+376,Mid Tom ffL
+377,Mid Tom ffR
+378,Hi Tom mfL
+379,Hi Tom mfR
+380,Hi Tom fL
+381,Hi Tom fR
+382,Hi Tom ffL
+383,Hi Tom ffR
+384,RoomLowTom p
+385,RoomLowTom f
+386,Room HiTom p
+387,Room HiTom f
+388,Rock Tom 2H
+389,Rock Tom 4L
+390,BrushLwTom p
+391,BrushLwTom f
+392,BrushMdTom p
+393,BrushMdTom f
+394,BrushHiTom p
+395,BrushHiTom f
+396,Hi Hat mfL
+397,Hi Hat mfR
+398,Hi Hat fL
+399,Hi Hat fR
+400,Hi Hat ffL
+401,Hi Hat ffR
+402,Open Hat mfL
+403,Open Hat mfR
+404,Open Hat fL
+405,Open Hat fR
+406,Open Hat ffL
+407,Open Hat ffR
+408,PedalHat fL
+409,PedalHat fR
+410,PedalHat ffL
+411,PedalHat ffR
+412,BrushHiHat p
+413,BrushHiHatmf
+414,BrushHiHat f
+415,BrushPdHat p
+416,BrushPdHat f
+417,BrushOpHat p
+418,BrushOpHatmf
+419,BrushOpHat f
+420,Crash 1 pL
+421,Crash 1 pR
+422,Crash 1 mfL
+423,Crash 1 mfR
+424,Crash 1 fL
+425,Crash 1 fR
+426,Crash 1 ffL
+427,Crash 1 ffR
+428,Crash 2 mfL
+429,Crash 2 mfR
+430,Crash 2 fL
+431,Crash 2 fR
+432,Crash 2 ffL
+433,Crash 2 ffR
+434,Swish Cymbal
+435,Brush Crash1
+436,Brush Crash2
+437,Ride 1 pL
+438,Ride 1 pR
+439,Ride 1 mfL
+440,Ride 1 mfR
+441,Ride 1 fL
+442,Ride 1 fR
+443,Ride 2 pL
+444,Ride 2 pR
+445,Ride 2 mfL
+446,Ride 2 mfR
+447,Ride 2 fL
+448,Ride 2 fR
+449,RideBell pL
+450,RideBell pR
+451,RideBell mfL
+452,RideBell mfR
+453,RideBell fL
+454,RideBell fR
+455,Hi Q
+456,Slap
+457,S Push
+458,S Pull
+459,Stick
+460,Click
+461,Metro K
+462,Metro Bell
+463,TR-909 HC
+464,Triz
+465,JingleBell
+466,BellTree
+467,TimbalesHi p
+468,TimbalesHi f
+469,TimbalesLo p
+470,TimbalesLo f
+471,BongoHi fL
+472,BongoHi fR
+473,BongoHi mfL
+474,BongoHi mfR
+475,BongoLow fL
+476,BongoLow fR
+477,BongoLow mfL
+478,BongoLow mfR
+479,CongaHi fL
+480,CongaHi fR
+481,CongaHi pL
+482,CongaHi pR
+483,CongaHi SlpL
+484,CongaHi SlpR
+485,CongaLow fL
+486,CongaLow fR
+487,CongaLow mfL
+488,CongaLow mfR
+489,CongaMt fL
+490,CongaMt fR
+491,CongaMt mfL
+492,CongaMt mfR
+493,Mute Cuica
+494,Open Cuica
+495,Cowbell p
+496,Cowbell mf
+497,Cowbell f
+498,Claves p
+499,Claves f
+500,ShortGuiro f
+501,ShortGuiro p
+502,Long Guiro
+503,Agogo Hi
+504,Agogo Lo
+505,Whistle Hi
+506,Whistle Long
+507,Castanet
+508,Tambourine
+509,Wood BlockLo
+510,Maracas
+511,Vibra Slap
+512,Wood BlockHi
+513,Cabasa
+514,Shaker
+515,Mute Surdo
+516,Open Surdo
+517,HQ808 Kick
+518,808 RS
+519,808 Tom
+520,E.Snare
+521,Punch Snare
+522,Syn Drum
+523,808 SN 2
+524,808 Clap
+525,808 Tl
+526,808 Th
+527,808 Ohh
+528,808 Cym
+529,808 Cow
+530,Cosine
+531,808 Mrcs
+532,808 Claves
+533,Concert BD
+534,Concert SD
+535,Timpani
+536,Con Cymbal
+537,Fret Guitar
+538,Cut Noise
+539,Bass BD
+540,KC Flute
+541,Sea
+542,Thunder
+543,Windy
+544,Stream
+545,Bubble
+546,Bird
+547,Dog Bow
+548,Horse
+549,Mt Bird
+550,Telephone 1
+551,Telephone 2
+552,Creak
+553,S DOOR
+554,Scratch
+555,WindChime
+556,Helicopter
+557,Engine
+558,Car Stop
+559,Car Pass
+560,Crash
+561,GunShot
+562,Siren
+563,Train
+564,StarShip
+565,JetPlane
+566,Applause
+567,Laugh
+568,Scream
+569,Punch
+570,Heart
+571,Steps
+572,M Gun
+573,Laser
+574,Thunder 2
+575,RCrash 1 fL
+576,RCrash 1 fR
+577,RCrash 1 ffL
+578,RCrash 1 ffR
+579,RCrash 2 fL
+580,RCrash 2 fR
+581,RCrash 2 ffL
+582,RCrash 2 ffR
+583,R Snare 1R
+584,R Snare 2R
+585,R Mid Tom
+586,R RoomHiTom
+587,R Old Kick
+588,R Round Kick
+589,BsGt Play Nz
