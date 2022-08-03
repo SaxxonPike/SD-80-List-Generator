@@ -1,0 +1,1582 @@
+Index, MSB,   LSB,   PRG,   Name
+0001,  121,   000,   001,   Piano 1
+0002,  121,   001,   001,   Piano 1w
+0003,  121,   002,   001,   European Pf
+0004,  121,   000,   002,   Piano 2
+0005,  121,   001,   002,   Piano 2w
+0006,  121,   000,   003,   Piano 3
+0007,  121,   001,   003,   Piano 3w
+0008,  121,   000,   004,   Honky-tonk
+0009,  121,   001,   004,   Honky-tonk 2
+0010,  121,   000,   005,   E.Piano 1
+0011,  121,   001,   005,   St.Soft EP
+0012,  121,   002,   005,   FM+SA EP
+0013,  121,   003,   005,   Wurly
+0014,  121,   000,   006,   E.Piano 2
+0015,  121,   001,   006,   Detuned EP 2
+0016,  121,   002,   006,   St.FM EP
+0017,  121,   003,   006,   EP Legend
+0018,  121,   004,   006,   EP Phase
+0019,  121,   000,   007,   Harpsichord
+0020,  121,   001,   007,   Coupled Hps.
+0021,  121,   002,   007,   Harpsi.w
+0022,  121,   003,   007,   Harpsi.o
+0023,  121,   000,   008,   Clav.
+0024,  121,   001,   008,   Pulse Clav
+0025,  121,   000,   009,   Celesta
+0026,  121,   000,   010,   Glockenspiel
+0027,  121,   000,   011,   Music Box
+0028,  121,   000,   012,   Vibraphone
+0029,  121,   001,   012,   Vibraphone w
+0030,  121,   000,   013,   Marimba
+0031,  121,   001,   013,   Marimba w
+0032,  121,   000,   014,   Xylophone
+0033,  121,   000,   015,   Tubular-bell
+0034,  121,   001,   015,   Church Bell
+0035,  121,   002,   015,   Carillon
+0036,  121,   000,   016,   Santur
+0037,  121,   000,   017,   Organ 1
+0038,  121,   001,   017,   Trem. Organ
+0039,  121,   002,   017,   60's Organ 1
+0040,  121,   003,   017,   70's E.Organ
+0041,  121,   000,   018,   Organ 2
+0042,  121,   001,   018,   Chorus Or.2
+0043,  121,   002,   018,   Perc. Organ
+0044,  121,   000,   019,   Organ 3
+0045,  121,   000,   020,   Church Org.1
+0046,  121,   001,   020,   Church Org.2
+0047,  121,   002,   020,   Church Org.3
+0048,  121,   000,   021,   Reed Organ
+0049,  121,   001,   021,   Puff Organ
+0050,  121,   000,   022,   Accordion Fr
+0051,  121,   001,   022,   Accordion It
+0052,  121,   000,   023,   Harmonica
+0053,  121,   000,   024,   Bandoneon
+0054,  121,   000,   025,   Nylon-str.Gt
+0055,  121,   001,   025,   Ukulele
+0056,  121,   002,   025,   Nylon Gt.o
+0057,  121,   003,   025,   Nylon Gt.2
+0058,  121,   000,   026,   Steel-str.Gt
+0059,  121,   001,   026,   12-str.Gt
+0060,  121,   002,   026,   Mandolin
+0061,  121,   003,   026,   Steel + Body
+0062,  121,   000,   027,   Jazz Gt.
+0063,  121,   001,   027,   Pedal Steel
+0064,  121,   000,   028,   Clean Gt.
+0065,  121,   001,   028,   Chorus Gt.
+0066,  121,   002,   028,   Mid Tone GTR
+0067,  121,   000,   029,   Muted Gt.
+0068,  121,   001,   029,   Funk Pop
+0069,  121,   002,   029,   Funk Gt.2
+0070,  121,   003,   029,   Jazz Man
+0071,  121,   000,   030,   Overdrive Gt
+0072,  121,   001,   030,   Guitar Pinch
+0073,  121,   000,   031,   DistortionGt
+0074,  121,   001,   031,   Feedback Gt.
+0075,  121,   002,   031,   Dist Rtm GTR
+0076,  121,   000,   032,   Gt.Harmonics
+0077,  121,   001,   032,   Gt. Feedback
+0078,  121,   000,   033,   Acoustic Bs.
+0079,  121,   000,   034,   Fingered Bs.
+0080,  121,   001,   034,   Finger Slap
+0081,  121,   000,   035,   Picked Bass
+0082,  121,   000,   036,   Fretless Bs.
+0083,  121,   000,   037,   Slap Bass 1
+0084,  121,   000,   038,   Slap Bass 2
+0085,  121,   000,   039,   Synth Bass 1
+0086,  121,   001,   039,   SynthBass101
+0087,  121,   002,   039,   Acid Bass
+0088,  121,   003,   039,   Clavi Bass
+0089,  121,   004,   039,   Hammer
+0090,  121,   000,   040,   Synth Bass 2
+0091,  121,   001,   040,   Beef FM Bass
+0092,  121,   002,   040,   RubberBass 2
+0093,  121,   003,   040,   Attack Pulse
+0094,  121,   000,   041,   Violin
+0095,  121,   001,   041,   Slow Violin
+0096,  121,   000,   042,   Viola
+0097,  121,   000,   043,   Cello
+0098,  121,   000,   044,   Contrabass
+0099,  121,   000,   045,   Tremolo Str
+0100,  121,   000,   046,   PizzicatoStr
+0101,  121,   000,   047,   Harp
+0102,  121,   001,   047,   Yang Qin
+0103,  121,   000,   048,   Timpani
+0104,  121,   000,   049,   Strings
+0105,  121,   001,   049,   Orchestra
+0106,  121,   002,   049,   60s Strings
+0107,  121,   000,   050,   Slow Strings
+0108,  121,   000,   051,   Syn.Strings1
+0109,  121,   001,   051,   Syn.Strings3
+0110,  121,   000,   052,   Syn.Strings2
+0111,  121,   000,   053,   Choir Aahs
+0112,  121,   001,   053,   Chorus Aahs
+0113,  121,   000,   054,   Voice Oohs
+0114,  121,   001,   054,   Humming
+0115,  121,   000,   055,   SynVox
+0116,  121,   001,   055,   Analog Voice
+0117,  121,   000,   056,   OrchestraHit
+0118,  121,   001,   056,   Bass Hit
+0119,  121,   002,   056,   6th Hit
+0120,  121,   003,   056,   Euro Hit
+0121,  121,   000,   057,   Trumpet
+0122,  121,   001,   057,   Dark Trumpet
+0123,  121,   000,   058,   Trombone
+0124,  121,   001,   058,   Trombone 2
+0125,  121,   002,   058,   Bright Tb
+0126,  121,   000,   059,   Tuba
+0127,  121,   000,   060,   MutedTrumpet
+0128,  121,   001,   060,   MuteTrumpet2
+0129,  121,   000,   061,   French Horns
+0130,  121,   001,   061,   Fr.Horn 2
+0131,  121,   000,   062,   Brass 1
+0132,  121,   001,   062,   Brass 2
+0133,  121,   000,   063,   Synth Brass1
+0134,  121,   001,   063,   Pro Brass
+0135,  121,   002,   063,   Oct SynBrass
+0136,  121,   003,   063,   Jump Brass
+0137,  121,   000,   064,   Synth Brass2
+0138,  121,   001,   064,   SynBrass sfz
+0139,  121,   002,   064,   Velo Brass 1
+0140,  121,   000,   065,   Soprano Sax
+0141,  121,   000,   066,   Alto Sax
+0142,  121,   000,   067,   Tenor Sax
+0143,  121,   000,   068,   Baritone Sax
+0144,  121,   000,   069,   Oboe
+0145,  121,   000,   070,   English Horn
+0146,  121,   000,   071,   Bassoon
+0147,  121,   000,   072,   Clarinet
+0148,  121,   000,   073,   Piccolo
+0149,  121,   000,   074,   Flute
+0150,  121,   000,   075,   Recorder
+0151,  121,   000,   076,   Pan Flute
+0152,  121,   000,   077,   Bottle Blow
+0153,  121,   000,   078,   Shakuhachi
+0154,  121,   000,   079,   Whistle
+0155,  121,   000,   080,   Ocarina
+0156,  121,   000,   081,   Square Wave
+0157,  121,   001,   081,   MG Square
+0158,  121,   002,   081,   2600 Sine
+0159,  121,   000,   082,   Saw Wave
+0160,  121,   001,   082,   OB2 Saw
+0161,  121,   002,   082,   Doctor Solo
+0162,  121,   003,   082,   Natural Lead
+0163,  121,   004,   082,   SequencedSaw
+0164,  121,   000,   083,   Syn.Calliope
+0165,  121,   000,   084,   Chiffer Lead
+0166,  121,   000,   085,   Charang
+0167,  121,   001,   085,   Wire Lead
+0168,  121,   000,   086,   Solo Vox
+0169,  121,   000,   087,   5th Saw Wave
+0170,  121,   000,   088,   Bass & Lead
+0171,  121,   001,   088,   Delayed Lead
+0172,  121,   000,   089,   Fantasia
+0173,  121,   000,   090,   Warm Pad
+0174,  121,   001,   090,   Sine Pad
+0175,  121,   000,   091,   Polysynth
+0176,  121,   000,   092,   Space Voice
+0177,  121,   001,   092,   Itopia
+0178,  121,   000,   093,   Bowed Glass
+0179,  121,   000,   094,   Metal Pad
+0180,  121,   000,   095,   Halo Pad
+0181,  121,   000,   096,   Sweep Pad
+0182,  121,   000,   097,   Ice Rain
+0183,  121,   000,   098,   Soundtrack
+0184,  121,   000,   099,   Crystal
+0185,  121,   001,   099,   Syn Mallet
+0186,  121,   000,   100,   Atmosphere
+0187,  121,   000,   101,   Brightness
+0188,  121,   000,   102,   Goblin
+0189,  121,   000,   103,   Echo Drops
+0190,  121,   001,   103,   Echo Bell
+0191,  121,   002,   103,   Echo Pan
+0192,  121,   000,   104,   Star Theme
+0193,  121,   000,   105,   Sitar
+0194,  121,   001,   105,   Sitar 2
+0195,  121,   000,   106,   Banjo
+0196,  121,   000,   107,   Shamisen
+0197,  121,   000,   108,   Koto
+0198,  121,   001,   108,   Taisho Koto
+0199,  121,   000,   109,   Kalimba
+0200,  121,   000,   110,   Bagpipe
+0201,  121,   000,   111,   Fiddle
+0202,  121,   000,   112,   Shanai
+0203,  121,   000,   113,   Tinkle Bell
+0204,  121,   000,   114,   Agogo
+0205,  121,   000,   115,   Steel Drums
+0206,  121,   000,   116,   Woodblock
+0207,  121,   001,   116,   Castanets
+0208,  121,   000,   117,   Taiko
+0209,  121,   001,   117,   Concert BD
+0210,  121,   000,   118,   Melo. Tom 1
+0211,  121,   001,   118,   Melo. Tom 2
+0212,  121,   000,   119,   Synth Drum
+0213,  121,   001,   119,   808 Tom
+0214,  121,   001,   119,   Elec Perc
+0215,  121,   000,   120,   Reverse Cym.
+0216,  121,   000,   121,   Gt.FretNoise
+0217,  121,   001,   121,   Gt.Cut Noise
+0218,  121,   002,   121,   String Slap
+0219,  121,   000,   122,   Breath Noise
+0220,  121,   001,   122,   Fl.Key Click
+0221,  121,   000,   123,   Seashore
+0222,  121,   001,   123,   Rain
+0223,  121,   002,   123,   Thunder
+0224,  121,   003,   123,   Wind
+0225,  121,   004,   123,   Stream
+0226,  121,   005,   123,   Bubble
+0227,  121,   000,   124,   Bird
+0228,  121,   001,   124,   Dog
+0229,  121,   002,   124,   Horse-Gallop
+0230,  121,   003,   124,   Bird 2
+0231,  121,   000,   125,   Telephone 1
+0232,  121,   001,   125,   Telephone 2
+0233,  121,   002,   125,   DoorCreaking
+0234,  121,   003,   125,   Door
+0235,  121,   004,   125,   Scratch
+0236,  121,   005,   125,   Wind Chimes
+0237,  121,   000,   126,   Helicopter
+0238,  121,   001,   126,   Car-Engine
+0239,  121,   002,   126,   Car-Stop
+0240,  121,   003,   126,   Car-Pass
+0241,  121,   004,   126,   Car-Crash
+0242,  121,   005,   126,   Siren
+0243,  121,   006,   126,   Train
+0244,  121,   007,   126,   Jetplane
+0245,  121,   008,   126,   Starship
+0246,  121,   009,   126,   Burst Noise
+0247,  121,   000,   127,   Applause
+0248,  121,   001,   127,   Laughing
+0249,  121,   002,   127,   Screaming
+0250,  121,   003,   127,   Punch
+0251,  121,   004,   127,   Heart Beat
+0252,  121,   005,   127,   Footsteps
+0253,  121,   000,   128,   Gun Shot
+0254,  121,   001,   128,   Machine Gun
+0255,  121,   002,   128,   Lasergun
+0256,  121,   003,   128,   Explosion
+0257,  120,   000,   001,   GM2 STANDARD
+0258,  120,   000,   009,   GM2 ROOM
+0259,  120,   000,   017,   GM2 POWER
+0260,  120,   000,   025,   GM2 ELECTRIC
+0261,  120,   000,   026,   GM2 ANALOG
+0262,  120,   000,   033,   GM2 JAZZ
+0263,  120,   000,   041,   GM2 BRUSH
+0264,  120,   000,   049,   GM2 ORCHSTRA
+0265,  120,   000,   057,   GM2 SFX
+0266,  096,   000,   001,   Piano 1
+0267,  096,   001,   001,   Piano 1w
+0268,  096,   002,   001,   Piano 1d
+0269,  096,   000,   002,   Piano 2
+0270,  096,   001,   002,   Piano 2w
+0271,  096,   000,   003,   Piano 3
+0272,  096,   001,   003,   Piano 3w
+0273,  096,   000,   004,   Honky-tonk
+0274,  096,   001,   004,   Honky-tonk w
+0275,  096,   000,   005,   E.Piano 1
+0276,  096,   001,   005,   Detuned EP1
+0277,  096,   002,   005,   Dyno Rhodes
+0278,  096,   003,   005,   60's E.Piano
+0279,  096,   000,   006,   E.Piano 2
+0280,  096,   001,   006,   Detuned EP2
+0281,  096,   002,   006,   E.Piano 2v
+0282,  096,   003,   006,   EP Legend
+0283,  096,   004,   006,   EP Phase
+0284,  096,   000,   007,   Harpsichord
+0285,  096,   001,   007,   Coupl hps
+0286,  096,   002,   007,   Harpsi w
+0287,  096,   003,   007,   Harpsi o
+0288,  096,   000,   008,   Clav
+0289,  096,   001,   008,   Pulse Clav
+0290,  096,   000,   009,   Celesta
+0291,  096,   000,   010,   Glockenspiel
+0292,  096,   000,   011,   Music Box
+0293,  096,   000,   012,   Vibraphone
+0294,  096,   001,   012,   Vibraphone w
+0295,  096,   000,   013,   Marimba
+0296,  096,   001,   013,   Marimba w
+0297,  096,   000,   014,   Xylophone
+0298,  096,   000,   015,   Tubular-bell
+0299,  096,   001,   015,   Church Bell
+0300,  096,   002,   015,   Carillon
+0301,  096,   000,   016,   Santur
+0302,  096,   000,   017,   Organ 1
+0303,  096,   001,   017,   Detuned Or1
+0304,  096,   002,   017,   Organ 60
+0305,  096,   003,   017,   Organ 4
+0306,  096,   000,   018,   Organ 2
+0307,  096,   001,   018,   Detuned Or2
+0308,  096,   002,   018,   Organ 5
+0309,  096,   000,   019,   Organ 3
+0310,  096,   000,   020,   Church 1
+0311,  096,   001,   020,   Church 2
+0312,  096,   002,   020,   Church 3
+0313,  096,   000,   021,   Reed Organ
+0314,  096,   001,   021,   Puff Organ
+0315,  096,   000,   022,   Accordion F
+0316,  096,   001,   022,   Accordion I
+0317,  096,   000,   023,   Harmonica
+0318,  096,   000,   024,   Bandneon
+0319,  096,   000,   025,   Nylon Gt
+0320,  096,   001,   025,   Ukulele
+0321,  096,   002,   025,   Nylon o
+0322,  096,   003,   025,   Nylon Gt.2
+0323,  096,   000,   026,   Steel-str.Gt
+0324,  096,   001,   026,   12-Str.Gt
+0325,  096,   002,   026,   Mandolin
+0326,  096,   003,   026,   Steel+Body
+0327,  096,   000,   027,   Jazz Gt
+0328,  096,   001,   027,   Pedal Steel
+0329,  096,   000,   028,   Clean Rear
+0330,  096,   001,   028,   Clean Half
+0331,  096,   002,   028,   Mid Tone Gt
+0332,  096,   000,   029,   Muted Gt
+0333,  096,   001,   029,   Funk Gt
+0334,  096,   002,   029,   Funk Gt 2
+0335,  096,   003,   029,   Jazz Man
+0336,  096,   000,   030,   Overdrive Gt
+0337,  096,   001,   030,   Gt.Pinch
+0338,  096,   000,   031,   DistortionGt
+0339,  096,   001,   031,   Feedback Gt
+0340,  096,   002,   031,   DistRythm Gt
+0341,  096,   000,   032,   Gt.Harmonics
+0342,  096,   001,   032,   Gt.Feedback
+0343,  096,   000,   033,   Acoustic Bs
+0344,  096,   000,   034,   Fingered Bs
+0345,  096,   001,   034,   FingerJ.Bass
+0346,  096,   000,   035,   Picked Bass
+0347,  096,   000,   036,   Fretless Bs
+0348,  096,   000,   037,   Slap Bass 1
+0349,  096,   000,   038,   Slap Bass 2
+0350,  096,   000,   039,   Synth Bass 1
+0351,  096,   001,   039,   SynthBass101
+0352,  096,   002,   039,   Acid Bass
+0353,  096,   003,   039,   Clavi Bass
+0354,  096,   004,   039,   Hammer
+0355,  096,   000,   040,   Synth Bass 2
+0356,  096,   001,   040,   Beef FM Bs
+0357,  096,   002,   040,   Rubber Bass
+0358,  096,   003,   040,   Attack Pulse
+0359,  096,   000,   041,   Violin
+0360,  096,   001,   041,   Slow Violin
+0361,  096,   000,   042,   Viola
+0362,  096,   000,   043,   Cello
+0363,  096,   000,   044,   Contrabass
+0364,  096,   000,   045,   Tremolo Str
+0365,  096,   000,   046,   Pizzicato
+0366,  096,   000,   047,   Harp
+0367,  096,   001,   047,   Yangqin
+0368,  096,   000,   048,   Timpani
+0369,  096,   000,   049,   Strings
+0370,  096,   001,   049,   Orchestra
+0371,  096,   002,   049,   60'Strings
+0372,  096,   000,   050,   Slow Strings
+0373,  096,   000,   051,   Syn.Strings1
+0374,  096,   001,   051,   Syn.Strings3
+0375,  096,   000,   052,   Syn.Strings2
+0376,  096,   000,   053,   Choir Aahs
+0377,  096,   001,   053,   Choir Aahs 2
+0378,  096,   000,   054,   Voice Oohs
+0379,  096,   001,   054,   Hamming
+0380,  096,   000,   055,   SynVox
+0381,  096,   001,   055,   Ana Voice
+0382,  096,   000,   056,   Orchestrahit
+0383,  096,   001,   056,   Bass Hit
+0384,  096,   002,   056,   6th Hit
+0385,  096,   003,   056,   Euro Hit
+0386,  096,   000,   057,   Trumpet
+0387,  096,   001,   057,   Dark Trumpet
+0388,  096,   000,   058,   Trombone
+0389,  096,   001,   058,   Trombone 2
+0390,  096,   002,   058,   Brite Bone
+0391,  096,   000,   059,   Tuba
+0392,  096,   000,   060,   MuteTrumpet
+0393,  096,   001,   060,   MuteTrumpet2
+0394,  096,   000,   061,   French Horns
+0395,  096,   001,   061,   Fr.Horn
+0396,  096,   000,   062,   Brass 1
+0397,  096,   001,   062,   Brass 2
+0398,  096,   000,   063,   SynthBrass 1
+0399,  096,   001,   063,   SynthBrass 3
+0400,  096,   002,   063,   Oct.SynBrass
+0401,  096,   003,   063,   Jump Brass
+0402,  096,   000,   064,   SynthBrass 2
+0403,  096,   001,   064,   SynthBrass 4
+0404,  096,   002,   064,   Velo Brass
+0405,  096,   000,   065,   Soprano Sax
+0406,  096,   000,   066,   Alto Sax
+0407,  096,   000,   067,   Tenor Sax
+0408,  096,   000,   068,   Bariton Sax
+0409,  096,   000,   069,   Oboe
+0410,  096,   000,   070,   EnglishHorn
+0411,  096,   000,   071,   Bassoon
+0412,  096,   000,   072,   Clarinet
+0413,  096,   000,   073,   Piccolo
+0414,  096,   000,   074,   Flute
+0415,  096,   000,   075,   Recorder
+0416,  096,   000,   076,   Pan Flute
+0417,  096,   000,   077,   Bottle Blow
+0418,  096,   000,   078,   Shakuhachi
+0419,  096,   000,   079,   Whistle
+0420,  096,   000,   080,   Ocarina
+0421,  096,   000,   081,   Square Wave
+0422,  096,   001,   081,   Square
+0423,  096,   002,   081,   Sine Wave
+0424,  096,   000,   082,   Saw Wave
+0425,  096,   001,   082,   Saw
+0426,  096,   002,   082,   Doctor Solo
+0427,  096,   003,   082,   Natural Lead
+0428,  096,   004,   082,   SequencedSaw
+0429,  096,   000,   083,   Syn.Calliope
+0430,  096,   000,   084,   Chiffer Lead
+0431,  096,   000,   085,   Charang
+0432,  096,   001,   085,   Wire Lead
+0433,  096,   000,   086,   Solo Vox
+0434,  096,   000,   087,   5th SawWave
+0435,  096,   000,   088,   Bass & Lead
+0436,  096,   001,   088,   DelayedLead
+0437,  096,   000,   089,   Fantasia
+0438,  096,   000,   090,   Warm Pad
+0439,  096,   001,   090,   Sine Pad
+0440,  096,   000,   091,   Polysynth
+0441,  096,   000,   092,   SpaceVoice
+0442,  096,   001,   092,   Itopia
+0443,  096,   000,   093,   BowedGlass
+0444,  096,   000,   094,   Metal Pad
+0445,  096,   000,   095,   Halo Pad
+0446,  096,   000,   096,   Sweep Pad
+0447,  096,   000,   097,   Ice Rain
+0448,  096,   000,   098,   Soundtrack
+0449,  096,   000,   099,   Crystal
+0450,  096,   001,   099,   Syn Mallet
+0451,  096,   000,   100,   Atmosphere
+0452,  096,   000,   101,   Brightness
+0453,  096,   000,   102,   Goblin
+0454,  096,   000,   103,   Echo Drops
+0455,  096,   001,   103,   Echo Bell
+0456,  096,   002,   103,   Echo Pan
+0457,  096,   000,   104,   Star Theme
+0458,  096,   000,   105,   Sitar
+0459,  096,   001,   105,   Sitar 2
+0460,  096,   000,   106,   Banjo
+0461,  096,   000,   107,   Shamisen
+0462,  096,   000,   108,   Koto
+0463,  096,   001,   108,   Taisho Koto
+0464,  096,   000,   109,   Kalimba
+0465,  096,   000,   110,   Bag Pipe
+0466,  096,   000,   111,   Fiddle
+0467,  096,   000,   112,   Shanai
+0468,  096,   000,   113,   Tinkle Bell
+0469,  096,   000,   114,   Agogo
+0470,  096,   000,   115,   Steel Drums
+0471,  096,   000,   116,   Woodblock
+0472,  096,   001,   116,   Castanet
+0473,  096,   000,   117,   Taiko
+0474,  096,   001,   117,   Concert BD
+0475,  096,   000,   118,   Melo.Tom 1
+0476,  096,   001,   118,   Melo.Tom 2
+0477,  096,   000,   119,   Synth Drum
+0478,  096,   001,   119,   808 tom
+0479,  096,   002,   119,   Elec Perc
+0480,  096,   000,   120,   Reverse Cym
+0481,  096,   000,   121,   GtFret Noise
+0482,  096,   001,   121,   Gt.Cut Noise
+0483,  096,   002,   121,   Slap_St.Bass
+0484,  096,   000,   122,   Breath Noise
+0485,  096,   001,   122,   Fl.Key Click
+0486,  096,   000,   123,   Seashore
+0487,  096,   001,   123,   Rain
+0488,  096,   002,   123,   Thunder
+0489,  096,   003,   123,   Wind
+0490,  096,   004,   123,   Stream
+0491,  096,   005,   123,   Bubble
+0492,  096,   000,   124,   Bird Tweet
+0493,  096,   001,   124,   Dog
+0494,  096,   002,   124,   Horse Gallop
+0495,  096,   003,   124,   Bird Tweet 2
+0496,  096,   000,   125,   Telephone
+0497,  096,   001,   125,   Telephone 2
+0498,  096,   002,   125,   Door Creak
+0499,  096,   003,   125,   Door
+0500,  096,   004,   125,   Scratch
+0501,  096,   005,   125,   Wind Chimes
+0502,  096,   000,   126,   Helicopter
+0503,  096,   001,   126,   Car-Engine
+0504,  096,   002,   126,   Car-Stop
+0505,  096,   003,   126,   Car-Pass
+0506,  096,   004,   126,   Car-Crash
+0507,  096,   005,   126,   Siren
+0508,  096,   006,   126,   Train
+0509,  096,   007,   126,   Jetplane
+0510,  096,   008,   126,   Starship
+0511,  096,   009,   126,   Burst Noise
+0512,  096,   000,   127,   Applause
+0513,  096,   001,   127,   Laughing
+0514,  096,   002,   127,   Screaming
+0515,  096,   003,   127,   Punch
+0516,  096,   004,   127,   Heart Beat
+0517,  096,   005,   127,   Footsteps
+0518,  096,   000,   128,   Gunshot
+0519,  096,   001,   128,   Machine Gun
+0520,  096,   002,   128,   Lasergun
+0521,  096,   003,   128,   Explosion
+0522,  097,   000,   001,   Ac.Piano
+0523,  097,   001,   001,   Ac.Piano w
+0524,  097,   002,   001,   Mild Piano
+0525,  097,   000,   002,   Rock Piano
+0526,  097,   001,   002,   Rock Piano w
+0527,  097,   000,   003,   E.Grand Pf
+0528,  097,   001,   003,   E.Grand Pf w
+0529,  097,   000,   004,   Old Honky
+0530,  097,   001,   004,   Old Honky w
+0531,  097,   000,   005,   Soft Rhodes
+0532,  097,   001,   005,   Fat Rhodes
+0533,  097,   002,   005,   Rhodes Wide
+0534,  097,   003,   005,   Wurly Soft
+0535,  097,   000,   006,   FM E.Piano
+0536,  097,   001,   006,   Soft FM EP
+0537,  097,   002,   006,   SA E.Piano
+0538,  097,   003,   006,   EP Legend 2
+0539,  097,   004,   006,   EP Phase 2
+0540,  097,   000,   007,   Harpsi 2
+0541,  097,   001,   007,   Coupl hps 2
+0542,  097,   002,   007,   Harpsi 2 w
+0543,  097,   003,   007,   Harpsi 2 o
+0544,  097,   000,   008,   Atack Clav 1
+0545,  097,   001,   008,   AnalogClav 1
+0546,  097,   000,   009,   Celesta 2
+0547,  097,   000,   010,   Glocken 2
+0548,  097,   000,   011,   Music Box 2
+0549,  097,   000,   012,   Vibraphone 2
+0550,  097,   001,   012,   Vibraphone2w
+0551,  097,   000,   013,   Marimba 2
+0552,  097,   001,   013,   Marimba 2 w
+0553,  097,   000,   014,   Xylophone 2
+0554,  097,   000,   015,   Tubular-bel2
+0555,  097,   001,   015,   Church Bell2
+0556,  097,   002,   015,   Carillon 2
+0557,  097,   000,   016,   Santur 2
+0558,  097,   000,   017,   Perky
+0559,  097,   001,   017,   Ballad B
+0560,  097,   002,   017,   Happy 60s
+0561,  097,   003,   017,   Tone Wheel
+0562,  097,   000,   018,   Jazz Organ 1
+0563,  097,   001,   018,   Perc.Organ 1
+0564,  097,   002,   018,   Dist.JzOrg 1
+0565,  097,   000,   019,   Organ 3 fast
+0566,  097,   000,   020,   Pipe Organ 1
+0567,  097,   001,   020,   LargeChurch1
+0568,  097,   002,   020,   SmallChurch1
+0569,  097,   000,   021,   Reed Organ 2
+0570,  097,   001,   021,   Organ Flute
+0571,  097,   000,   022,   French Acc
+0572,  097,   001,   022,   It Muset
+0573,  097,   000,   023,   Harmonica 2
+0574,  097,   000,   024,   Bandneon 1
+0575,  097,   000,   025,   Nylon Gt 2
+0576,  097,   001,   025,   Ukulele 2
+0577,  097,   002,   025,   Nylon 2 o
+0578,  097,   003,   025,   Hard Gut Gt
+0579,  097,   000,   026,   OV Steel Gt
+0580,  097,   001,   026,   12-Str.Gt 2
+0581,  097,   002,   026,   Mandolin 2
+0582,  097,   003,   026,   Steel+Body 2
+0583,  097,   000,   027,   Jazz Gt 2
+0584,  097,   001,   027,   Pedal Steel2
+0585,  097,   000,   028,   TC Rear
+0586,  097,   001,   028,   TC Front
+0587,  097,   002,   028,   TC Front 2
+0588,  097,   000,   029,   TC Mute Gt
+0589,  097,   001,   029,   FunkGt Slap
+0590,  097,   002,   029,   Funk Pop
+0591,  097,   003,   029,   Mute Jazz Gt
+0592,  097,   000,   030,   Atk Drive Gt
+0593,  097,   001,   030,   Gt.Pinch 2
+0594,  097,   000,   031,   Atk Dist Gt
+0595,  097,   001,   031,   FeedbackGt 2
+0596,  097,   002,   031,   Muted Dist
+0597,  097,   000,   032,   Gt.Harm 2
+0598,  097,   001,   032,   FeedbackOct
+0599,  097,   000,   033,   Rockabilly
+0600,  097,   000,   034,   Fingered Bs2
+0601,  097,   001,   034,   FingerP.Bass
+0602,  097,   000,   035,   Picked Jz Bs
+0603,  097,   000,   036,   Fretless Bs2
+0604,  097,   000,   037,   Slap Pop 1
+0605,  097,   000,   038,   Funky Slap
+0606,  097,   000,   039,   MG303 Bass
+0607,  097,   001,   039,   MG Bass
+0608,  097,   002,   039,   MG Acid Bass
+0609,  097,   003,   039,   Clavi Bass 2
+0610,  097,   004,   039,   OB Hammer
+0611,  097,   000,   040,   Seq101 Bass
+0612,  097,   001,   040,   Beef Slap Bs
+0613,  097,   002,   040,   Rubber Bass2
+0614,  097,   003,   040,   Attack Saw
+0615,  097,   000,   041,   Violin vib
+0616,  097,   001,   041,   Slow Vln vib
+0617,  097,   000,   042,   Viola vib
+0618,  097,   000,   043,   Cello vib
+0619,  097,   000,   044,   Cb vib
+0620,  097,   000,   045,   Tremolo Str2
+0621,  097,   000,   046,   Pizzicato 2
+0622,  097,   000,   047,   Harp 2
+0623,  097,   001,   047,   Yangqin 2
+0624,  097,   000,   048,   Timpani 2
+0625,  097,   000,   049,   Strings 2
+0626,  097,   001,   049,   Orchestra 2
+0627,  097,   002,   049,   Oct.Strings
+0628,  097,   000,   050,   SlowStrings2
+0629,  097,   000,   051,   BriteSyn.Str
+0630,  097,   001,   051,   Oct.SynStr 1
+0631,  097,   000,   052,   Warm SynStr1
+0632,  097,   000,   053,   Large Choir
+0633,  097,   001,   053,   Small Choir
+0634,  097,   000,   054,   Voice Oohs 2
+0635,  097,   001,   054,   Hamming 2
+0636,  097,   000,   055,   SynVox 2
+0637,  097,   001,   055,   Ana Voice 2
+0638,  097,   000,   056,   Orc Hit 2
+0639,  097,   001,   056,   Bass Hit 2
+0640,  097,   002,   056,   6th Hit 2
+0641,  097,   003,   056,   Euro Hit 2
+0642,  097,   000,   057,   Solo Trumpet
+0643,  097,   001,   057,   Mild Trumpet
+0644,  097,   000,   058,   Solo Bone
+0645,  097,   001,   058,   Solo Bone 2
+0646,  097,   002,   058,   Brite Bone 2
+0647,  097,   000,   059,   Tuba 2
+0648,  097,   000,   060,   MuteTrumpet2
+0649,  097,   001,   060,   Harmon Mute
+0650,  097,   000,   061,   FrenchHorns2
+0651,  097,   001,   061,   MildFr.Horns
+0652,  097,   000,   062,   Brass FF
+0653,  097,   001,   062,   BrassSection
+0654,  097,   000,   063,   JP Syn.Brass
+0655,  097,   001,   063,   JPSyn.Brass2
+0656,  097,   002,   063,   OctSynBrass2
+0657,  097,   003,   063,   80's Brass
+0658,  097,   000,   064,   MG Syn.Horn
+0659,  097,   001,   064,   OB Syn.Horn
+0660,  097,   002,   064,   CS Syn.Brass
+0661,  097,   000,   065,   Soprano Sax2
+0662,  097,   000,   066,   Breathy Alto
+0663,  097,   000,   067,   BreathyTenor
+0664,  097,   000,   068,   Barely Bari
+0665,  097,   000,   069,   Brite Oboe
+0666,  097,   000,   070,   EnglishHorn2
+0667,  097,   000,   071,   Bassoon 2
+0668,  097,   000,   072,   Br.Clarinet
+0669,  097,   000,   073,   Piccolo 2
+0670,  097,   000,   074,   Flute 2
+0671,  097,   000,   075,   Recorder 2
+0672,  097,   000,   076,   Pan Flute 2
+0673,  097,   000,   077,   Bottle Blow2
+0674,  097,   000,   078,   Shakuhachi 2
+0675,  097,   000,   079,   Whistle 2
+0676,  097,   000,   080,   Ocarina 2
+0677,  097,   000,   081,   MG Square
+0678,  097,   001,   081,   Fat Square
+0679,  097,   002,   081,   2600 Sine
+0680,  097,   000,   082,   JP Saw Wave
+0681,  097,   001,   082,   MG Saw
+0682,  097,   002,   082,   Fat Saw Solo
+0683,  097,   003,   082,   P5 Saw Lead
+0684,  097,   004,   082,   MG Sequence
+0685,  097,   000,   083,   SynCalliope2
+0686,  097,   000,   084,   ChifferLead2
+0687,  097,   000,   085,   Charang 2
+0688,  097,   001,   085,   Wire Lead 2
+0689,  097,   000,   086,   Solo Vox 2
+0690,  097,   000,   087,   5th SawWave2
+0691,  097,   000,   088,   Bass & Lead2
+0692,  097,   001,   088,   DelayedLead2
+0693,  097,   000,   089,   Fantasia 2
+0694,  097,   000,   090,   Warm Pad 2
+0695,  097,   001,   090,   Sine Pad 2
+0696,  097,   000,   091,   Polysynth 2
+0697,  097,   000,   092,   SpaceVoice 2
+0698,  097,   001,   092,   Itopia 2
+0699,  097,   000,   093,   BowedGlass 2
+0700,  097,   000,   094,   Metal Pad 2
+0701,  097,   000,   095,   Halo Pad 2
+0702,  097,   000,   096,   Sweep Pad 2
+0703,  097,   000,   097,   Ice Rain 2
+0704,  097,   000,   098,   Soundtrack 2
+0705,  097,   000,   099,   Crystal 2
+0706,  097,   001,   099,   Syn Mallet 2
+0707,  097,   000,   100,   Atmosphere 2
+0708,  097,   000,   101,   Brightness 2
+0709,  097,   000,   102,   Goblin 2
+0710,  097,   000,   103,   Echo Drops 2
+0711,  097,   001,   103,   Echo Bell 2
+0712,  097,   002,   103,   Echo Pan 2
+0713,  097,   000,   104,   Star Theme 2
+0714,  097,   000,   105,   Atk Sitar
+0715,  097,   001,   105,   Atk Sitar 2
+0716,  097,   000,   106,   Banjo 2
+0717,  097,   000,   107,   Shamisen 2
+0718,  097,   000,   108,   Koto 2
+0719,  097,   001,   108,   Taisho Koto2
+0720,  097,   000,   109,   Kalimba 2
+0721,  097,   000,   110,   Bag Pipe 2
+0722,  097,   000,   111,   Fiddle vib
+0723,  097,   000,   112,   Shanai 2
+0724,  097,   000,   113,   Tinkle Bell
+0725,  097,   000,   114,   Agogo
+0726,  097,   000,   115,   Steel Drums
+0727,  097,   000,   116,   Woodblock
+0728,  097,   001,   116,   Castanet
+0729,  097,   000,   117,   Taiko
+0730,  097,   001,   117,   Concert BD
+0731,  097,   000,   118,   Melo.Tom 1
+0732,  097,   001,   118,   Melo.Tom 2
+0733,  097,   000,   119,   Synth Drum
+0734,  097,   001,   119,   808 tom
+0735,  097,   002,   119,   Elec Perc
+0736,  097,   000,   120,   Reverse Cym
+0737,  097,   000,   121,   GtFret Noise
+0738,  097,   001,   121,   Gt.Cut Noise
+0739,  097,   002,   121,   Slap_St.Bass
+0740,  097,   000,   122,   Breath Noise
+0741,  097,   001,   122,   Fl.Key Click
+0742,  097,   000,   123,   Seashore
+0743,  097,   001,   123,   Rain
+0744,  097,   002,   123,   Thunder
+0745,  097,   003,   123,   Wind
+0746,  097,   004,   123,   Stream
+0747,  097,   005,   123,   Bubble
+0748,  097,   000,   124,   Bird Tweet
+0749,  097,   001,   124,   Dog
+0750,  097,   002,   124,   Horse Gallop
+0751,  097,   003,   124,   Bird Tweet 2
+0752,  097,   000,   125,   Telephone
+0753,  097,   001,   125,   Telephone 2
+0754,  097,   002,   125,   Door Creak
+0755,  097,   003,   125,   Door
+0756,  097,   004,   125,   Scratch
+0757,  097,   005,   125,   Wind Chimes
+0758,  097,   000,   126,   Helicopter
+0759,  097,   001,   126,   Car-Engine
+0760,  097,   002,   126,   Car-Stop
+0761,  097,   003,   126,   Car-Pass
+0762,  097,   004,   126,   Car-Crash
+0763,  097,   005,   126,   Siren
+0764,  097,   006,   126,   Train
+0765,  097,   007,   126,   Jetplane
+0766,  097,   008,   126,   Starship
+0767,  097,   009,   126,   Burst Noise
+0768,  097,   000,   127,   Applause
+0769,  097,   001,   127,   Laughing
+0770,  097,   002,   127,   Screaming
+0771,  097,   003,   127,   Punch
+0772,  097,   004,   127,   Heart Beat
+0773,  097,   005,   127,   Footsteps
+0774,  097,   000,   128,   Gunshot
+0775,  097,   001,   128,   Machine Gun
+0776,  097,   002,   128,   Lasergun
+0777,  097,   003,   128,   Explosion
+0778,  098,   000,   001,   St.Piano 1
+0779,  098,   001,   001,   St.Piano 1w
+0780,  098,   002,   001,   European Pf
+0781,  098,   000,   002,   St.Piano 2
+0782,  098,   001,   002,   St.Piano 2w
+0783,  098,   000,   003,   SA Piano
+0784,  098,   001,   003,   SA Piano w
+0785,  098,   000,   004,   St.Honky
+0786,  098,   001,   004,   St.Honky w
+0787,  098,   000,   005,   Tremo Rhodes
+0788,  098,   001,   005,   Sweet Tynes
+0789,  098,   002,   005,   Tremo Dyno
+0790,  098,   003,   005,   Tremo Wurly
+0791,  098,   000,   006,   FM Hard EP
+0792,  098,   001,   006,   Brite FM EP
+0793,  098,   002,   006,   Brite FM EP2
+0794,  098,   003,   006,   EP Legend 3
+0795,  098,   004,   006,   EP Phase 3
+0796,  098,   000,   007,   St.Harpsichd
+0797,  098,   001,   007,   St.Coupl hps
+0798,  098,   002,   007,   St.Harpsi w
+0799,  098,   003,   007,   St.Harpsi o
+0800,  098,   000,   008,   Atack Clav 2
+0801,  098,   001,   008,   AnalogClav 2
+0802,  098,   000,   009,   St.Celesta
+0803,  098,   000,   010,   St.Glocken
+0804,  098,   000,   011,   St.Music Box
+0805,  098,   000,   012,   St.Vibra
+0806,  098,   001,   012,   St.Vibra w
+0807,  098,   000,   013,   St.Marimba
+0808,  098,   001,   013,   St.Marimba w
+0809,  098,   000,   014,   St.Xylophone
+0810,  098,   000,   015,   St.Tubular
+0811,  098,   001,   015,   St.Church
+0812,  098,   002,   015,   St.Carillon
+0813,  098,   000,   016,   St.Santur
+0814,  098,   000,   017,   Roller
+0815,  098,   001,   017,   Rocker
+0816,  098,   002,   017,   Soft60'Organ
+0817,  098,   003,   017,   Full Stops
+0818,  098,   000,   018,   Jazz Organ 2
+0819,  098,   001,   018,   Perc.Organ 2
+0820,  098,   002,   018,   Dist.JzOrg 2
+0821,  098,   000,   019,   Rock Organ
+0822,  098,   000,   020,   Pipe Organ 2
+0823,  098,   001,   020,   LargeChurch2
+0824,  098,   002,   020,   SmallChurch2
+0825,  098,   000,   021,   Reed Organ 3
+0826,  098,   001,   021,   Theater
+0827,  098,   000,   022,   St.FrenchAcc
+0828,  098,   001,   022,   St.It Muset
+0829,  098,   000,   023,   St.Harmonica
+0830,  098,   000,   024,   St.Bandneon
+0831,  098,   000,   025,   Nylon Gt 3
+0832,  098,   001,   025,   Ukulele 3
+0833,  098,   002,   025,   Nylon 3 o
+0834,  098,   003,   025,   Hard Gut Gt2
+0835,  098,   000,   026,   SteelStr.Gt2
+0836,  098,   001,   026,   12-Str.Gt 3
+0837,  098,   002,   026,   Mandolin 3
+0838,  098,   003,   026,   Steel+Body 3
+0839,  098,   000,   027,   Jazz Gt 3
+0840,  098,   001,   027,   Pedal Steel3
+0841,  098,   000,   028,   Strat2 Rear
+0842,  098,   001,   028,   Chorus Clean
+0843,  098,   002,   028,   335
+0844,  098,   000,   029,   TC Mute Gt 2
+0845,  098,   001,   029,   FunkGt.Slap2
+0846,  098,   002,   029,   Funk Pop 2
+0847,  098,   003,   029,   Slap Jazz Gt
+0848,  098,   000,   030,   OverdriveGt2
+0849,  098,   001,   030,   Gt.Pinch 3
+0850,  098,   000,   031,   Dist.Gt 2
+0851,  098,   001,   031,   Feedback OD
+0852,  098,   002,   031,   Muted Dist 2
+0853,  098,   000,   032,   Gt.OctHarm
+0854,  098,   001,   032,   FeedbackHarm
+0855,  098,   000,   033,   Fat Aco.Bass
+0856,  098,   000,   034,   Jazz Bass
+0857,  098,   001,   034,   Finger Slap
+0858,  098,   000,   035,   Picking Bass
+0859,  098,   000,   036,   PhaseFrtless
+0860,  098,   000,   037,   Jazz Slap
+0861,  098,   000,   038,   Slap Pop 2
+0862,  098,   000,   039,   Fat Syn.Bass
+0863,  098,   001,   039,   SynthSaw Bs
+0864,  098,   002,   039,   AcidBs Dirty
+0865,  098,   003,   039,   Clavi Bass 3
+0866,  098,   004,   039,   MG Hammer
+0867,  098,   000,   040,   Sq SynthBass
+0868,  098,   001,   040,   Beef Saw Bs
+0869,  098,   002,   040,   JpSaw Rubber
+0870,  098,   003,   040,   Attack MG Bs
+0871,  098,   000,   041,   Violin 2 vib
+0872,  098,   001,   041,   SlowVln2 vib
+0873,  098,   000,   042,   Viola2 vib
+0874,  098,   000,   043,   Cello2 vib
+0875,  098,   000,   044,   Cb2 vib
+0876,  098,   000,   045,   St.Trem Str
+0877,  098,   000,   046,   St.Pizzicato
+0878,  098,   000,   047,   St.Harp
+0879,  098,   001,   047,   St.Yangqin
+0880,  098,   000,   048,   St.Timpani
+0881,  098,   000,   049,   St.Strings
+0882,  098,   001,   049,   St.Orchestra
+0883,  098,   002,   049,   St.OctStr 1
+0884,  098,   000,   050,   St.Slow Str
+0885,  098,   000,   051,   StackSyn.Str
+0886,  098,   001,   051,   Oct.SynStr 2
+0887,  098,   000,   052,   Warm SynStr2
+0888,  098,   000,   053,   St.ChoirAahs
+0889,  098,   001,   053,   St.Sm Choir
+0890,  098,   000,   054,   St.Vox Oohs
+0891,  098,   001,   054,   St.Hamming
+0892,  098,   000,   055,   St.SynVox
+0893,  098,   001,   055,   Ana Voice 3
+0894,  098,   000,   056,   St.Orc Hit
+0895,  098,   001,   056,   St.Bass Hit
+0896,  098,   002,   056,   St.6th Hit
+0897,  098,   003,   056,   St.Euro Hit
+0898,  098,   000,   057,   Romantic Tp
+0899,  098,   001,   057,   Tp.Dark vib
+0900,  098,   000,   058,   Trombone vib
+0901,  098,   001,   058,   Trombone2vib
+0902,  098,   002,   058,   Br.Bone vib
+0903,  098,   000,   059,   Tuba vib
+0904,  098,   000,   060,   Solo MutedTp
+0905,  098,   001,   060,   Harmon Mute2
+0906,  098,   000,   061,   St.Fr Horns
+0907,  098,   001,   061,   St.Fr Horns2
+0908,  098,   000,   062,   St.Brass
+0909,  098,   001,   062,   St.Brass 2
+0910,  098,   000,   063,   Hyper Brass
+0911,  098,   001,   063,   Stack Brass
+0912,  098,   002,   063,   OctSynBrass3
+0913,  098,   003,   063,   SuperSaw Brs
+0914,  098,   000,   064,   Warm SynHorn
+0915,  098,   001,   064,   Rich SynHorn
+0916,  098,   002,   064,   P5 Syn.Brass
+0917,  098,   000,   065,   Sop.Sax vib
+0918,  098,   000,   066,   AltoSoft vib
+0919,  098,   000,   067,   Blow Tenor
+0920,  098,   000,   068,   Bari.Sax vib
+0921,  098,   000,   069,   Classic Oboe
+0922,  098,   000,   070,   E.Horn vib
+0923,  098,   000,   071,   Bassoon vib
+0924,  098,   000,   072,   JazzClarinet
+0925,  098,   000,   073,   Piccolo vib
+0926,  098,   000,   074,   Flute vib
+0927,  098,   000,   075,   Recorder vib
+0928,  098,   000,   076,   PanFlute vib
+0929,  098,   000,   077,   Bottle vib
+0930,  098,   000,   078,   Shaku.vib
+0931,  098,   000,   079,   Whistle vib
+0932,  098,   000,   080,   Ocarina vib
+0933,  098,   000,   081,   OB Square
+0934,  098,   001,   081,   Fat Square2
+0935,  098,   002,   081,   2600 Sine 2
+0936,  098,   000,   082,   Oct.JP Saw
+0937,  098,   001,   082,   Hybrit Saw
+0938,  098,   002,   082,   Hybrit Solo
+0939,  098,   003,   082,   MG Saw Lead
+0940,  098,   004,   082,   DelaySeqence
+0941,  098,   000,   083,   SynCalliope3
+0942,  098,   000,   084,   ChifferLead3
+0943,  098,   000,   085,   Charang 3
+0944,  098,   001,   085,   Wire Lead 3
+0945,  098,   000,   086,   Solo Vox 3
+0946,  098,   000,   087,   5th SawWave3
+0947,  098,   000,   088,   Bass & Lead3
+0948,  098,   001,   088,   DelayedLead3
+0949,  098,   000,   089,   Fantasia 3
+0950,  098,   000,   090,   Warm Pad 3
+0951,  098,   001,   090,   Sine Pad 3
+0952,  098,   000,   091,   Polysynth 3
+0953,  098,   000,   092,   SpaceVoice 3
+0954,  098,   001,   092,   Itopia 3
+0955,  098,   000,   093,   BowedGlass 3
+0956,  098,   000,   094,   Metal Pad 3
+0957,  098,   000,   095,   Halo Pad 3
+0958,  098,   000,   096,   Sweep Pad 3
+0959,  098,   000,   097,   Ice Rain 3
+0960,  098,   000,   098,   Soundtrack 3
+0961,  098,   000,   099,   Crystal 3
+0962,  098,   001,   099,   Syn Mallet 3
+0963,  098,   000,   100,   Atmosphere 3
+0964,  098,   000,   101,   Brightness 3
+0965,  098,   000,   102,   Goblin 3
+0966,  098,   000,   103,   Echo Drops 3
+0967,  098,   001,   103,   Echo Bell 3
+0968,  098,   002,   103,   Echo Pan 3
+0969,  098,   000,   104,   Star Theme 3
+0970,  098,   000,   105,   St.Sitar
+0971,  098,   001,   105,   St.Sitar 2
+0972,  098,   000,   106,   St.Banjo
+0973,  098,   000,   107,   St.Shamisen
+0974,  098,   000,   108,   St.Koto
+0975,  098,   001,   108,   St.T Koto
+0976,  098,   000,   109,   St.Kalimba
+0977,  098,   000,   110,   St.Bag Pipe
+0978,  098,   000,   111,   Fiddle 2 vib
+0979,  098,   000,   112,   St.Shanai
+0980,  098,   000,   113,   Tinkle Bell
+0981,  098,   000,   114,   Agogo
+0982,  098,   000,   115,   Steel Drums
+0983,  098,   000,   116,   Woodblock
+0984,  098,   001,   116,   Castanet
+0985,  098,   000,   117,   Taiko
+0986,  098,   001,   117,   Concert BD
+0987,  098,   000,   118,   Melo.Tom 1
+0988,  098,   001,   118,   Melo.Tom 2
+0989,  098,   000,   119,   Synth Drum
+0990,  098,   001,   119,   808 tom
+0991,  098,   002,   119,   Elec Perc
+0992,  098,   000,   120,   Reverse Cym
+0993,  098,   000,   121,   GtFret Noise
+0994,  098,   001,   121,   Gt.Cut Noise
+0995,  098,   002,   121,   Slap_St.Bass
+0996,  098,   000,   122,   Breath Noise
+0997,  098,   001,   122,   Fl.Key Click
+0998,  098,   000,   123,   Seashore
+0999,  098,   001,   123,   Rain
+1000,  098,   002,   123,   Thunder
+1001,  098,   003,   123,   Wind
+1002,  098,   004,   123,   Stream
+1003,  098,   005,   123,   Bubble
+1004,  098,   000,   124,   Bird Tweet
+1005,  098,   001,   124,   Dog
+1006,  098,   002,   124,   Horse Gallop
+1007,  098,   003,   124,   Bird Tweet 2
+1008,  098,   000,   125,   Telephone
+1009,  098,   001,   125,   Telephone 2
+1010,  098,   002,   125,   Door Creak
+1011,  098,   003,   125,   Door
+1012,  098,   004,   125,   Scratch
+1013,  098,   005,   125,   Wind Chimes
+1014,  098,   000,   126,   Helicopter
+1015,  098,   001,   126,   Car-Engine
+1016,  098,   002,   126,   Car-Stop
+1017,  098,   003,   126,   Car-Pass
+1018,  098,   004,   126,   Car-Crash
+1019,  098,   005,   126,   Siren
+1020,  098,   006,   126,   Train
+1021,  098,   007,   126,   Jetplane
+1022,  098,   008,   126,   Starship
+1023,  098,   009,   126,   Burst Noise
+1024,  098,   000,   127,   Applause
+1025,  098,   001,   127,   Laughing
+1026,  098,   002,   127,   Screaming
+1027,  098,   003,   127,   Punch
+1028,  098,   004,   127,   Heart Beat
+1029,  098,   005,   127,   Footsteps
+1030,  098,   000,   128,   Gunshot
+1031,  098,   001,   128,   Machine Gun
+1032,  098,   002,   128,   Lasergun
+1033,  098,   003,   128,   Explosion
+1034,  099,   000,   001,   SD Piano
+1035,  099,   001,   001,   SD Piano w
+1036,  099,   002,   001,   Classic Pf
+1037,  099,   000,   002,   Enh.Piano 2
+1038,  099,   001,   002,   Enh.Piano 2w
+1039,  099,   000,   003,   Enh.E Grand
+1040,  099,   001,   003,   Enh.E Grandw
+1041,  099,   000,   004,   Brite Honky
+1042,  099,   001,   004,   Brite Honkyw
+1043,  099,   000,   005,   Stage 73
+1044,  099,   001,   005,   NY Rhodes
+1045,  099,   002,   005,   Rhase Dyno
+1046,  099,   003,   005,   Whirly
+1047,  099,   000,   006,   Chorus EP
+1048,  099,   001,   006,   Phase FM EP
+1049,  099,   002,   006,   Wah FM EP
+1050,  099,   003,   006,   Enh.Legend
+1051,  099,   004,   006,   Phasing EP
+1052,  099,   000,   007,   Enh.Harpsi
+1053,  099,   001,   007,   Enh.Coupl hp
+1054,  099,   002,   007,   Enh.Harpsi w
+1055,  099,   003,   007,   Enh.Harpsi o
+1056,  099,   000,   008,   Comp Clav
+1057,  099,   001,   008,   Wah Ana.Clav
+1058,  099,   000,   009,   SpaceCelesta
+1059,  099,   000,   010,   Trem.Glocken
+1060,  099,   000,   011,   Panning Box
+1061,  099,   000,   012,   Trem.Vibra
+1062,  099,   001,   012,   Trem.Vibra w
+1063,  099,   000,   013,   Enh.Marimba
+1064,  099,   001,   013,   Enh.Marimbaw
+1065,  099,   000,   014,   Enh.Xylophon
+1066,  099,   000,   015,   Trem.Tubula
+1067,  099,   001,   015,   Echo Church
+1068,  099,   002,   015,   Trm.Carillon
+1069,  099,   000,   016,   Enh.Santur
+1070,  099,   000,   017,   Perky Spin
+1071,  099,   001,   017,   Gospel Spin
+1072,  099,   002,   017,   96 Year
+1073,  099,   003,   017,   Tone Wh.Solo
+1074,  099,   000,   018,   Jazzy Spin
+1075,  099,   001,   018,   Jazzy Spin 2
+1076,  099,   002,   018,   Jazzy Spin 3
+1077,  099,   000,   019,   Rocker Spin
+1078,  099,   000,   020,   Amb.Church
+1079,  099,   001,   020,   Amb.Church 2
+1080,  099,   002,   020,   Amb.Church 3
+1081,  099,   000,   021,   Old Reed Org
+1082,  099,   001,   021,   Enh.Theater
+1083,  099,   000,   022,   Enh.French
+1084,  099,   001,   022,   Enh.ItMuset
+1085,  099,   000,   023,   Ld.Harmonica
+1086,  099,   000,   024,   Enh.Bandneon
+1087,  099,   000,   025,   Enh.Nylon Gt
+1088,  099,   001,   025,   Enh.Ukulele
+1089,  099,   002,   025,   Enh.Nylon o
+1090,  099,   003,   025,   Enh.Gut Gt
+1091,  099,   000,   026,   Comp OVSteel
+1092,  099,   001,   026,   3D 12-Str.Gt
+1093,  099,   002,   026,   Enh.Mandolin
+1094,  099,   003,   026,   DelayedSteel
+1095,  099,   000,   027,   Lead Jazz Gt
+1096,  099,   001,   027,   Hawaian Gt
+1097,  099,   000,   028,   Old Clean Gt
+1098,  099,   001,   028,   Jazz Chorus
+1099,  099,   002,   028,   335 Drive
+1100,  099,   000,   029,   Comp Mute Gt
+1101,  099,   001,   029,   Enh.Funk Gt
+1102,  099,   002,   029,   Wah Funk Pop
+1103,  099,   003,   029,   Solo Jazz Gt
+1104,  099,   000,   030,   TC Lead Gt
+1105,  099,   001,   030,   Gt.PinchLead
+1106,  099,   000,   031,   Heavy DistGt
+1107,  099,   001,   031,   Feedbacker
+1108,  099,   002,   031,   Muted OD
+1109,  099,   000,   032,   Amp.Harm
+1110,  099,   001,   032,   Amp.FeedBack
+1111,  099,   000,   033,   Enh.Aco Bass
+1112,  099,   000,   034,   Pre Bass
+1113,  099,   001,   034,   Comp Finger
+1114,  099,   000,   035,   Rock Bass
+1115,  099,   000,   036,   Cho.Fretless
+1116,  099,   000,   037,   Phase Slap
+1117,  099,   000,   038,   Enh.Slap Pop
+1118,  099,   000,   039,   Dist303 Bass
+1119,  099,   001,   039,   P.Shift Bass
+1120,  099,   002,   039,   Acid Dist Bs
+1121,  099,   003,   039,   PhaseClaviBs
+1122,  099,   004,   039,   Enh.Hammer
+1123,  099,   000,   040,   PhaseSq Bass
+1124,  099,   001,   040,   Enh.Beef Bs
+1125,  099,   002,   040,   Fat JpSaw Bs
+1126,  099,   003,   040,   Enh.MG Bass
+1127,  099,   000,   041,   Enh.Violin
+1128,  099,   001,   041,   Enh.Slow Vln
+1129,  099,   000,   042,   Enh.Viola
+1130,  099,   000,   043,   Enh.Cello
+1131,  099,   000,   044,   Enh.Cb
+1132,  099,   000,   045,   St.Trem Str2
+1133,  099,   000,   046,   Chorus Pizz
+1134,  099,   000,   047,   Chorus Harp
+1135,  099,   001,   047,   Enh.Yangqin
+1136,  099,   000,   048,   Enh.Timpani
+1137,  099,   000,   049,   St.Strings 2
+1138,  099,   001,   049,   St.Orchestr2
+1139,  099,   002,   049,   St.OctStr 2
+1140,  099,   000,   050,   St.Slow Str2
+1141,  099,   000,   051,   JP Strings
+1142,  099,   001,   051,   PhaseSyn.Str
+1143,  099,   000,   052,   OB Strings
+1144,  099,   000,   053,   Rich Choir
+1145,  099,   001,   053,   St.Sm Choir2
+1146,  099,   000,   054,   Enh.Vox Oohs
+1147,  099,   001,   054,   Enh.Hamming
+1148,  099,   000,   055,   Phase SynVox
+1149,  099,   001,   055,   Lead Ana.Vox
+1150,  099,   000,   056,   Enh.Orc Hit
+1151,  099,   001,   056,   PhaseBassHit
+1152,  099,   002,   056,   Dly.6th Hit
+1153,  099,   003,   056,   Dly.Euro Hit
+1154,  099,   000,   057,   Enh.Trumpet
+1155,  099,   001,   057,   Warm Trumpet
+1156,  099,   000,   058,   Enh.Trombone
+1157,  099,   001,   058,   Enh.Bone 2
+1158,  099,   002,   058,   Enh.Br Bone
+1159,  099,   000,   059,   Chorus Tuba
+1160,  099,   000,   060,   Enh.Muted Tp
+1161,  099,   001,   060,   Enh.MutedTp2
+1162,  099,   000,   061,   Enh.StFrHorn
+1163,  099,   001,   061,   Warm Horns
+1164,  099,   000,   062,   St.Big Brass
+1165,  099,   001,   062,   Enh.Brs Sect
+1166,  099,   000,   063,   SuperJP Brs1
+1167,  099,   001,   063,   Lead Brass
+1168,  099,   002,   063,   Phase OctBrs
+1169,  099,   003,   063,   SuperJP Brs2
+1170,  099,   000,   064,   WarmSynHorn2
+1171,  099,   001,   064,   Phase Horn
+1172,  099,   002,   064,   Fat Pro Bras
+1173,  099,   000,   065,   Enh.Sop Sax
+1174,  099,   000,   066,   Enh.Alto Sax
+1175,  099,   000,   067,   Enh.TenorSax
+1176,  099,   000,   068,   Enh.Bari Sax
+1177,  099,   000,   069,   Enh.Oboe
+1178,  099,   000,   070,   Enh.E Horn
+1179,  099,   000,   071,   Enh.Bassoon
+1180,  099,   000,   072,   Jz.Clarinet2
+1181,  099,   000,   073,   Enh.Piccolo
+1182,  099,   000,   074,   Enh.Flute
+1183,  099,   000,   075,   Enh.Recorder
+1184,  099,   000,   076,   Cho.PanFlute
+1185,  099,   000,   077,   Phase Bottle
+1186,  099,   000,   078,   Delay Shaku
+1187,  099,   000,   079,   DelayWhistle
+1188,  099,   000,   080,   DelayOcarina
+1189,  099,   000,   081,   OBSquareLead
+1190,  099,   001,   081,   Phase Square
+1191,  099,   002,   081,   Sine Lead
+1192,  099,   000,   082,   KeySync Saw
+1193,  099,   001,   082,   Flanging Saw
+1194,  099,   002,   082,   Doctor Lead
+1195,  099,   003,   082,   Fat Saw Lead
+1196,  099,   004,   082,   PhaseSeqence
+1197,  099,   000,   083,   LeadCalliope
+1198,  099,   000,   084,   Chiffers
+1199,  099,   000,   085,   Charang Lead
+1200,  099,   001,   085,   Phase Wire
+1201,  099,   000,   086,   SoloVox Lead
+1202,  099,   000,   087,   Flanging 5th
+1203,  099,   000,   088,   Phase BsLead
+1204,  099,   001,   088,   Suffle Lead
+1205,  099,   000,   089,   New Fantasia
+1206,  099,   000,   090,   Phase Pad
+1207,  099,   001,   090,   Chorus Sine
+1208,  099,   000,   091,   KeySyncSynth
+1209,  099,   000,   092,   Phase Voice
+1210,  099,   001,   092,   Pan Itopia
+1211,  099,   000,   093,   Ring Glass
+1212,  099,   000,   094,   Space Pad
+1213,  099,   000,   095,   Phase Halo
+1214,  099,   000,   096,   Flanging Pad
+1215,  099,   000,   097,   Reverse Rain
+1216,  099,   000,   098,   Phase Track
+1217,  099,   000,   099,   3D Crystal
+1218,  099,   001,   099,   Phase Mallet
+1219,  099,   000,   100,   Pan Atmos
+1220,  099,   000,   101,   Bright Star
+1221,  099,   000,   102,   Rev Goblin
+1222,  099,   000,   103,   Delay Drops
+1223,  099,   001,   103,   Delay Bell
+1224,  099,   002,   103,   Delay Pan
+1225,  099,   000,   104,   Phase Theme
+1226,  099,   000,   105,   Enh.Sitar
+1227,  099,   001,   105,   FantasySitar
+1228,  099,   000,   106,   St.Banjo 2
+1229,  099,   000,   107,   St.Shamisen2
+1230,  099,   000,   108,   St.Koto 2
+1231,  099,   001,   108,   St.T Koto 2
+1232,  099,   000,   109,   Trem.Kalimba
+1233,  099,   000,   110,   Enh.Bag Pipe
+1234,  099,   000,   111,   Enh.Fiddle
+1235,  099,   000,   112,   Enh.Shanai
+1236,  099,   000,   113,   Tinkle Bell
+1237,  099,   000,   114,   Agogo
+1238,  099,   000,   115,   Steel Drums
+1239,  099,   000,   116,   Woodblock
+1240,  099,   001,   116,   Castanet
+1241,  099,   000,   117,   Taiko
+1242,  099,   001,   117,   Concert BD
+1243,  099,   000,   118,   Melo.Tom 1
+1244,  099,   001,   118,   Melo.Tom 2
+1245,  099,   000,   119,   Synth Drum
+1246,  099,   001,   119,   808 tom
+1247,  099,   002,   119,   Elec Perc
+1248,  099,   000,   120,   Reverse Cym
+1249,  099,   000,   121,   GtFret Noise
+1250,  099,   001,   121,   Gt.Cut Noise
+1251,  099,   002,   121,   Slap_St.Bass
+1252,  099,   000,   122,   Breath Noise
+1253,  099,   001,   122,   Fl.Key Click
+1254,  099,   000,   123,   Seashore
+1255,  099,   001,   123,   Rain
+1256,  099,   002,   123,   Thunder
+1257,  099,   003,   123,   Wind
+1258,  099,   004,   123,   Stream
+1259,  099,   005,   123,   Bubble
+1260,  099,   000,   124,   Bird Tweet
+1261,  099,   001,   124,   Dog
+1262,  099,   002,   124,   Horse Gallop
+1263,  099,   003,   124,   Bird Tweet 2
+1264,  099,   000,   125,   Telephone
+1265,  099,   001,   125,   Telephone 2
+1266,  099,   002,   125,   Door Creak
+1267,  099,   003,   125,   Door
+1268,  099,   004,   125,   Scratch
+1269,  099,   005,   125,   Wind Chimes
+1270,  099,   000,   126,   Helicopter
+1271,  099,   001,   126,   Car-Engine
+1272,  099,   002,   126,   Car-Stop
+1273,  099,   003,   126,   Car-Pass
+1274,  099,   004,   126,   Car-Crash
+1275,  099,   005,   126,   Siren
+1276,  099,   006,   126,   Train
+1277,  099,   007,   126,   Jetplane
+1278,  099,   008,   126,   Starship
+1279,  099,   009,   126,   Burst Noise
+1280,  099,   000,   127,   Applause
+1281,  099,   001,   127,   Laughing
+1282,  099,   002,   127,   Screaming
+1283,  099,   003,   127,   Punch
+1284,  099,   004,   127,   Heart Beat
+1285,  099,   005,   127,   Footsteps
+1286,  099,   000,   128,   Gunshot
+1287,  099,   001,   128,   Machine Gun
+1288,  099,   002,   128,   Lasergun
+1289,  099,   003,   128,   Explosion
+1290,  080,   000,   001,   D.L.A.Pad
+1291,  080,   000,   002,   BrushingSaw
+1292,  080,   000,   003,   Xtremities
+1293,  080,   000,   004,   Atmostrings
+1294,  080,   000,   005,   Noo Tongs
+1295,  080,   000,   006,   Mistery
+1296,  080,   000,   007,   EastrnEurope
+1297,  080,   000,   008,   Harpsi&Str
+1298,  080,   000,   009,   Shout Gt
+1299,  080,   000,   010,   Clean Chorus
+1300,  080,   000,   011,   Mid Boost Gt
+1301,  080,   000,   012,   Guitarvibe
+1302,  080,   000,   013,   Cluster Sect
+1303,  080,   000,   014,   Mariachi Tp
+1304,  080,   000,   015,   NY Tenor
+1305,  080,   000,   016,   Jazz Club
+1306,  080,   000,   017,   Moody Alto
+1307,  080,   000,   018,   Fuji Yama
+1308,  080,   000,   019,   SD Piano
+1309,  080,   000,   020,   Piano&Str
+1310,  080,   000,   021,   WarmVoxPiano
+1311,  080,   000,   022,   Enh.E Grand
+1312,  080,   000,   023,   Brite Honky
+1313,  080,   000,   024,   Ambient EP
+1314,  080,   000,   025,   Rhase Dyno
+1315,  080,   000,   026,   Wah Dyno
+1316,  080,   000,   027,   Voweling EP
+1317,  080,   000,   028,   Stage 73
+1318,  080,   000,   029,   NY Rhodes
+1319,  080,   000,   030,   Amped Wurlie
+1320,  080,   000,   031,   Dirty Wurlie
+1321,  080,   000,   032,   PhaseFlangEP
+1322,  080,   000,   033,   Dist Wurly
+1323,  080,   000,   034,   Xmod EP
+1324,  080,   000,   035,   EP+Followers
+1325,  080,   000,   036,   Backrhodes
+1326,  080,   000,   037,   FM Delight
+1327,  080,   000,   038,   Enh.Legend
+1328,  080,   000,   039,   Phasing EP
+1329,  080,   000,   040,   Comp Clav
+1330,  080,   000,   041,   Vibarimba
+1331,  080,   000,   042,   FM layer
+1332,  080,   000,   043,   Vibey Flute
+1333,  080,   000,   044,   Chime Bells
+1334,  080,   000,   045,   The Big Spin
+1335,  080,   000,   046,   Roller Spin
+1336,  080,   000,   047,   Rocker Spin
+1337,  080,   000,   048,   Tone Wh.Solo
+1338,  080,   000,   049,   Purple Spin
+1339,  080,   000,   050,   RingingOrgan
+1340,  080,   000,   051,   60's LeadOrg
+1341,  080,   000,   052,   DistLead Org
+1342,  080,   000,   053,   Assalt Organ
+1343,  080,   000,   054,   Perky Spin
+1344,  080,   000,   055,   Gospel Spin
+1345,  080,   000,   056,   Boogie Organ
+1346,  080,   000,   057,   Klubb Organ
+1347,  080,   000,   058,   96 Year
+1348,  080,   000,   059,   OrganInStone
+1349,  080,   000,   060,   StringsOrgan
+1350,  080,   000,   061,   Cathdr Pipes
+1351,  080,   000,   062,   Enh.Theater
+1352,  080,   000,   063,   Ld.Harmonica
+1353,  080,   000,   064,   Guitar&Str
+1354,  080,   000,   065,   Elec Gut Gt
+1355,  080,   000,   066,   Chorus GutGt
+1356,  080,   000,   067,   Enh.Nylon Gt
+1357,  080,   000,   068,   CompSteel Gt
+1358,  080,   000,   069,   Elec Aco.Gt
+1359,  080,   000,   070,   Hard Steel
+1360,  080,   000,   071,   Comp OVSteel
+1361,  080,   000,   072,   DelayedSteel
+1362,  080,   000,   073,   Wah Steel Gt
+1363,  080,   000,   074,   Soft Steel
+1364,  080,   000,   075,   Lead Jazz Gt
+1365,  080,   000,   076,   Hawaian Gt
+1366,  080,   000,   077,   Solo Jazz Gt
+1367,  080,   000,   078,   Old Clean Gt
+1368,  080,   000,   079,   Jazz Chorus
+1369,  080,   000,   080,   Fat Clean
+1370,  080,   000,   081,   Space-D Gt
+1371,  080,   000,   082,   Whammy Gt
+1372,  080,   000,   083,   Trem&Cho Gt
+1373,  080,   000,   084,   Long DLY.Gt
+1374,  080,   000,   085,   Comp FeedBK
+1375,  080,   000,   086,   ChaseDL Mute
+1376,  080,   000,   087,   Wah Funk Pop
+1377,  080,   000,   088,   Old Blues
+1378,  080,   000,   089,   335 Drive
+1379,  080,   000,   090,   335 Drive2
+1380,  080,   000,   091,   SmallAMP OD
+1381,  080,   000,   092,   CountrySlide
+1382,  080,   000,   093,   335 Comp
+1383,  080,   000,   094,   TC Lead Gt
+1384,  080,   000,   095,   Lead Mild Gt
+1385,  080,   000,   096,   Crunch Gt
+1386,  080,   000,   097,   Auto Wah Gt
+1387,  080,   000,   098,   Folmant Gt
+1388,  080,   000,   099,   Fuzz Gt
+1389,  080,   000,   100,   MonoPhase Gt
+1390,  080,   000,   101,   2 Layer Gt
+1391,  080,   000,   102,   MonoDLY Dist
+1392,  080,   000,   103,   Step FLG Gt
+1393,  080,   000,   104,   335 Fuzz
+1394,  080,   000,   105,   Drive Funk
+1395,  080,   000,   106,   Loud & Metal
+1396,  080,   000,   107,   Heavy DistGt
+1397,  080,   000,   108,   Power Mute
+1398,  080,   000,   109,   Muted OD
+1399,  080,   000,   110,   Combo Drive
+1400,  080,   000,   111,   Ring Gt.
+1401,  080,   000,   112,   Scream Drive
+1402,  080,   000,   113,   Gt.Pinch Wah
+1403,  080,   000,   114,   Power DistGt
+1404,  080,   000,   115,   Triple Gt
+1405,  080,   000,   116,   Reverse Harm
+1406,  080,   000,   117,   Drivin'Uprit
+1407,  080,   000,   118,   Enh.Aco Bass
+1408,  080,   000,   119,   Pre Bass
+1409,  080,   000,   120,   Comp Finger
+1410,  080,   000,   121,   Octrv Finger
+1411,  080,   000,   122,   Rock Bass
+1412,  080,   000,   123,   Dist Bass
+1413,  080,   000,   124,   Solo Fretles
+1414,  080,   000,   125,   WahSlapBass
+1415,  080,   000,   126,   Froggy Bass
+1416,  080,   000,   127,   3D TB-303
+1417,  080,   000,   128,   Acid Dist Bs
+1418,  081,   000,   001,   Blown Bass
+1419,  081,   000,   002,   Enh.Violin
+1420,  081,   000,   003,   Solo Violin
+1421,  081,   000,   004,   Enh.Cello
+1422,  081,   000,   005,   Overture Str
+1423,  081,   000,   006,   St.Trem Str2
+1424,  081,   000,   007,   St.Strings 2
+1425,  081,   000,   008,   Intim8String
+1426,  081,   000,   009,   Str&Brs Orch
+1427,  081,   000,   010,   St.Orchestr2
+1428,  081,   000,   011,   St.Slow Str2
+1429,  081,   000,   012,   ChamberPlyrs
+1430,  081,   000,   013,   Prelude
+1431,  081,   000,   014,   Tape Strings
+1432,  081,   000,   015,   JP Strings
+1433,  081,   000,   016,   PhaseSyn.Str
+1434,  081,   000,   017,   SciFi Choir
+1435,  081,   000,   018,   Rich Choir
+1436,  081,   000,   019,   St.Sm Choir2
+1437,  081,   000,   020,   Tron Choir
+1438,  081,   000,   021,   ScatterDanze
+1439,  081,   000,   022,   Choral Brass
+1440,  081,   000,   023,   Vocal Keys
+1441,  081,   000,   024,   SampleThe80s
+1442,  081,   000,   025,   Spectravox
+1443,  081,   000,   026,   Formantic
+1444,  081,   000,   027,   Vocoder Wave
+1445,  081,   000,   028,   Enh.Muted Tp
+1446,  081,   000,   029,   St.Big Brass
+1447,  081,   000,   030,   ConcertHorns
+1448,  081,   000,   031,   Brass Orch
+1449,  081,   000,   032,   Loose Lips
+1450,  081,   000,   033,   Multi Brass
+1451,  081,   000,   034,   SuperJP Brs1
+1452,  081,   000,   035,   SuperJP Brs2
+1453,  081,   000,   036,   DragginBrass
+1454,  081,   000,   037,   Enh.Alto Sax
+1455,  081,   000,   038,   Enh.TenorSax
+1456,  081,   000,   039,   Enh.Bari Sax
+1457,  081,   000,   040,   Sax's Sect
+1458,  081,   000,   041,   Reed Romance
+1459,  081,   000,   042,   U.S.Patrol
+1460,  081,   000,   043,   Enh.Oboe
+1461,  081,   000,   044,   Jz.Clarinet2
+1462,  081,   000,   045,   Enh.Flute
+1463,  081,   000,   046,   Tron Flutes
+1464,  081,   000,   047,   Flute&Clari
+1465,  081,   000,   048,   Orch Reeds
+1466,  081,   000,   049,   Delay Shaku
+1467,  081,   000,   050,   DelayOcarina
+1468,  081,   000,   051,   DynOrchestra
+1469,  081,   000,   052,   Celtic Ens
+1470,  081,   000,   053,   Early Ens
+1471,  081,   000,   054,   WoodSymphony
+1472,  081,   000,   055,   ViennaWoods2
+1473,  081,   000,   056,   Stage Woods
+1474,  081,   000,   057,   TremoloFlute
+1475,  081,   000,   058,   SupportWoods
+1476,  081,   000,   059,   Fiddle&Oboe
+1477,  081,   000,   060,   Mono Blues
+1478,  081,   000,   061,   TravlnFlutes
+1479,  081,   000,   062,   DistordedSAW
+1480,  081,   000,   063,   The Leader
+1481,  081,   000,   064,   SH-2 Lead
+1482,  081,   000,   065,   JP-6 Lead
+1483,  081,   000,   066,   Glassy Saws
+1484,  081,   000,   067,   Too Pure
+1485,  081,   000,   068,   Mono Analog
+1486,  081,   000,   069,   Charang Lead
+1487,  081,   000,   070,   Phase Wire
+1488,  081,   000,   071,   Flanging 5th
+1489,  081,   000,   072,   BOG
+1490,  081,   000,   073,   Solo Twang
+1491,  081,   000,   074,   Koto Power
+1492,  081,   000,   075,   Dulcid Solo
+1493,  081,   000,   076,   Wine Guitar
+1494,  081,   000,   077,   Leapin' Keys
+1495,  081,   000,   078,   New Fantasia
+1496,  081,   000,   079,   MilleniumStr
+1497,  081,   000,   080,   OB Borealis
+1498,  081,   000,   081,   Wet Glass
+1499,  081,   000,   082,   VintagePhase
+1500,  081,   000,   083,   P-layer
+1501,  081,   000,   084,   Ring Glass
+1502,  081,   000,   085,   5th Atm /Aft
+1503,  081,   000,   086,   Combing
+1504,  081,   000,   087,   Modular Life
+1505,  081,   000,   088,   KeySyncSynth
+1506,  081,   000,   089,   Phase Track
+1507,  081,   000,   090,   3D Crystal
+1508,  081,   000,   091,   Bright Star
+1509,  081,   000,   092,   Technoheadz
+1510,  081,   000,   093,   Techno Cave
+1511,  081,   000,   094,   Wedo-Wodo
+1512,  081,   000,   095,   Dance Sweet
+1513,  081,   000,   096,   Dancefloor
+1514,  081,   000,   097,   Frogcillator
+1515,  081,   000,   098,   Dance Zipper
+1516,  081,   000,   099,   Lo-fi Chord
+1517,  081,   000,   100,   Sliced
+1518,  081,   000,   101,   Dance Chop
+1519,  081,   000,   102,   GO WILD!
+1520,  081,   000,   103,   Tropics
+1521,  081,   000,   104,   FM Fx Bells
+1522,  081,   000,   105,   CrystalGlass
+1523,  081,   000,   106,   Borealis
+1524,  081,   000,   107,   Circular Pad
+1525,  081,   000,   108,   Oxigenizer
+1526,  081,   000,   109,   Quasar
+1527,  081,   000,   110,   PsycheSweep
+1528,  081,   000,   111,   Hell Section
+1529,  081,   000,   112,   DigitalDrone
+1530,  081,   000,   113,   Harp Drop
+1531,  081,   000,   114,   Runaway Rez
+1532,  081,   000,   115,   Wacky Pizzer
+1533,  081,   000,   116,   Reverse Rain
+1534,  081,   000,   117,   Starburst
+1535,  081,   000,   118,   Tongan Delay
+1536,  081,   000,   119,   Cascade
+1537,  081,   000,   120,   Legat~Stacat
+1538,  081,   000,   121,   Rev Goblin
+1539,  081,   000,   122,   FantasySitar
+1540,  081,   000,   123,   Rising Sun
+1541,  081,   000,   124,   Green Tea
+1542,  081,   000,   125,   Jimmy's Koto
+1543,  081,   000,   126,   Fly 2 India
+1544,  081,   000,   127,   IndianSpirit
+1545,  081,   000,   128,   Gt/BsNz MENU
+1546,  104,   000,   001,   Standard Set
+1547,  104,   000,   009,   Room Set
+1548,  104,   000,   017,   Power Set
+1549,  104,   000,   025,   Electric Set
+1550,  104,   000,   026,   Analog Set
+1551,  104,   000,   033,   Jazz Set
+1552,  104,   000,   041,   Brush Set
+1553,  104,   000,   049,   OrchestraSet
+1554,  104,   000,   057,   SFX Set
+1555,  105,   000,   001,   StandardSet2
+1556,  105,   000,   009,   Room Set 2
+1557,  105,   000,   017,   Power Set 2
+1558,  105,   000,   025,   Dance Set
+1559,  105,   000,   026,   Rave Set
+1560,  105,   000,   033,   Jazz Set 2
+1561,  105,   000,   041,   Brush Set 2
+1562,  105,   000,   049,   OrchestraSet
+1563,  105,   000,   057,   SFX Set
+1564,  106,   000,   001,   St.Standard
+1565,  106,   000,   009,   St.Room
+1566,  106,   000,   017,   St.Power
+1567,  106,   000,   025,   Rust Set
+1568,  106,   000,   026,   Analog2 Set
+1569,  106,   000,   033,   St.Jazz
+1570,  106,   000,   041,   St.Brush
+1571,  106,   000,   049,   OrchestraSet
+1572,  106,   000,   057,   SFX Set
+1573,  107,   000,   001,   Amb.Standard
+1574,  107,   000,   009,   Amb.Room
+1575,  107,   000,   017,   Gated Power
+1576,  107,   000,   025,   Techno Set
+1577,  107,   000,   026,   Bully Set
+1578,  107,   000,   033,   Amb.Jazz
+1579,  107,   000,   041,   Amb.Brush
+1580,  107,   000,   049,   OrchestraSet
+1581,  107,   000,   057,   SFX Set
